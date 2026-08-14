@@ -1,7 +1,7 @@
 {
-  "archive_size": 38439361,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.33/ShowDigitalAdmin-0.1.33-macOS-arm64.zip",
-  "release_notes": "Start goes straight to the loading screen \u2014 no flash of anything else.",
-  "sha256": "9e70df6b3ffc15b0b4011035ac77a69f12155e9e90fc399060f0649e15d28a12",
-  "version": "0.1.33"
+  "archive_size": 38443039,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.34/ShowDigitalAdmin-0.1.34-macOS-arm64.zip",
+  "release_notes": "Import shows live progress, review skips groups the sorter proved, you choose upload vs compress-only after review, and the bottom bar is gone.",
+  "sha256": "606af1a680a0ed8d7ac6dcffd7cd5a133ed1bd463a6b014fbcde8aa745c9dded",
+  "version": "0.1.34"
 }

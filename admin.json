@@ -1,7 +1,7 @@
 {
-  "archive_size": 38434491,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.29/ShowDigitalAdmin-0.1.29-macOS-arm64.zip",
-  "release_notes": "Upload screen with live per-package progress, sorting refuses a full disk, and self-updating from here on.",
-  "sha256": "ad632b4f9d3c00cda5a4e5beae64d200e2aea488220fe7ab3ecea5aaee3dc4f5",
-  "version": "0.1.29"
+  "archive_size": 38433649,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.30/ShowDigitalAdmin-0.1.30-macOS-arm64.zip",
+  "release_notes": "Sharper shared code between the apps, one config dir, and the repo cleanup.",
+  "sha256": "47f1bccee5f9ad071e9d62478c69d6be895370c4d8d2b397da262d3143a45d19",
+  "version": "0.1.30"
 }

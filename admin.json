@@ -1,7 +1,7 @@
 {
-  "archive_size": 38436718,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.31/ShowDigitalAdmin-0.1.31-macOS-arm64.zip",
-  "release_notes": "Start shows a real loading screen with rotating lines, then opens Import by itself.",
-  "sha256": "5ffe016db36551f293b3dee07376c32529b6703350329c2a6491de2d6bff45dd",
-  "version": "0.1.31"
+  "archive_size": 38437957,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.32/ShowDigitalAdmin-0.1.32-macOS-arm64.zip",
+  "release_notes": "Start checks for updates first, then runs setup behind the loading screen and opens Import by itself.",
+  "sha256": "a31d1fb2ff4a29461a52aa43cd27f407825c2c1b5e11408c75a1b638f61f42eb",
+  "version": "0.1.32"
 }

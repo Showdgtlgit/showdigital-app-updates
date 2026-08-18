@@ -1,7 +1,7 @@
 {
-  "archive_size": 38444580,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.35/ShowDigitalAdmin-0.1.35-macOS-arm64.zip",
-  "release_notes": "Every card in: you click Continue to Sort \u2014 no more jump the moment the last box is ticked.",
-  "sha256": "723d010a3eac212001d1c246e6fc283df2e0722daaa8c089799a3b0138c71ef9",
-  "version": "0.1.35"
+  "archive_size": 38444624,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.36/ShowDigitalAdmin-0.1.36-macOS-arm64.zip",
+  "release_notes": "No more pink fills \u2014 quiet neutral surfaces, red only where it means something.",
+  "sha256": "65139cdb10ae4a29b8bfe85de5d9f2e896625aa2cd767915bc9ddb6d44d2d3ab",
+  "version": "0.1.36"
 }

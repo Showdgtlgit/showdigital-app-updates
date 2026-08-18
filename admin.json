@@ -1,7 +1,7 @@
 {
-  "archive_size": 38443039,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.34/ShowDigitalAdmin-0.1.34-macOS-arm64.zip",
-  "release_notes": "Import shows live progress, review skips groups the sorter proved, you choose upload vs compress-only after review, and the bottom bar is gone.",
-  "sha256": "606af1a680a0ed8d7ac6dcffd7cd5a133ed1bd463a6b014fbcde8aa745c9dded",
-  "version": "0.1.34"
+  "archive_size": 38444580,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.35/ShowDigitalAdmin-0.1.35-macOS-arm64.zip",
+  "release_notes": "Every card in: you click Continue to Sort \u2014 no more jump the moment the last box is ticked.",
+  "sha256": "723d010a3eac212001d1c246e6fc283df2e0722daaa8c089799a3b0138c71ef9",
+  "version": "0.1.35"
 }

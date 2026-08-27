@@ -1,7 +1,7 @@
 {
-  "archive_size": 38444624,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.36/ShowDigitalAdmin-0.1.36-macOS-arm64.zip",
-  "release_notes": "No more pink fills \u2014 quiet neutral surfaces, red only where it means something.",
-  "sha256": "65139cdb10ae4a29b8bfe85de5d9f2e896625aa2cd767915bc9ddb6d44d2d3ab",
-  "version": "0.1.36"
+  "archive_size": 38280459,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.44/ShowDigitalAdmin-0.1.44-macOS-arm64.zip",
+  "release_notes": "New Show Digital app icon, per-card auto-import, faster delivery (two upload streams, pipelined DNG conversion), honest compression/upload progress, and calmer status text.",
+  "sha256": "aca16bd0a3e470128fea01851e1667072dc79971688d4c3e68b10cc1bfc2e0b0",
+  "version": "0.1.44"
 }

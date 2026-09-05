@@ -1,0 +1,7 @@
+{
+  "archive_size": 152460568,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.31/ShowDigitalAssociate-0.1.31-macOS-arm64.zip",
+  "release_notes": "Sort engine 5 Sep 2026: one unreadable file no longer strips GPS from the card; an unreachable schedule stops the sort instead of filing everything into time folders; every engine warning reaches the screen; fly-then-walk / walk-then-fly pairs a drone burst with the right house on a shared street and asks. Review: the two front doors share the peek row, the filmstrip fits, the fix screen opens on the metered frame, the window floor is 924x700, Next -> Sort no longer races the day-state save, Stop retires with the run, wording matches what was measured.",
+  "sha256": "40781289095aedcd7add68b65dcd061d17a9be1620ffd1e62e9944b9be293726",
+  "version": "0.1.31"
+}

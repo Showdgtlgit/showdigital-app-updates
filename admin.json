@@ -1,7 +1,7 @@
 {
-  "archive_size": 38280459,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.44/ShowDigitalAdmin-0.1.44-macOS-arm64.zip",
-  "release_notes": "New Show Digital app icon, per-card auto-import, faster delivery (two upload streams, pipelined DNG conversion), honest compression/upload progress, and calmer status text.",
-  "sha256": "aca16bd0a3e470128fea01851e1667072dc79971688d4c3e68b10cc1bfc2e0b0",
-  "version": "0.1.44"
+  "archive_size": 38784638,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.58/ShowDigitalAdmin-0.1.58-macOS-arm64.zip",
+  "release_notes": "Compress step: live ETA measured over the last minute, one header with the count and time left, a details drawer with per-package speed and time left, compress-only ends in place as the upload interface, Telegram milestones at compressed/25/50/75/90%.",
+  "sha256": "37002c690a777a1abb38e07248e0bd3d09e50a68e7203ff8944305a83be73bff",
+  "version": "0.1.58"
 }

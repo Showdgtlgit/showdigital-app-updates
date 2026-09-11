@@ -1,7 +1,7 @@
 {
-  "archive_size": 38820975,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.59/ShowDigitalAdmin-0.1.59-macOS-arm64.zip",
-  "release_notes": "Compress + upload is the delivery hero: four dots, two counts, one line; settled Finish day; Upload to Dropbox in the footer for built days.",
-  "sha256": "991bab5b2d24fc180e2f5df6664b319b42a8e18294b760d8305a3678ffd873d8",
-  "version": "0.1.59"
+  "archive_size": 38823441,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.60/ShowDigitalAdmin-0.1.60-macOS-arm64.zip",
+  "release_notes": "Production audit fixes: no sideways page slide when the scrollbar appears, the rail re-reads on a second run, Show details is safe to toggle mid-fade, dialogs widen for three options.",
+  "sha256": "260478bac34d233f60ba97389a3569a590c8cd760073e76efdd8f9e44be44e76",
+  "version": "0.1.60"
 }

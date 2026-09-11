@@ -1,7 +1,7 @@
 {
-  "archive_size": 152683706,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.36/ShowDigitalAssociate-0.1.36-macOS-arm64.zip",
-  "release_notes": "Compress & Deliver is the delivery hero; the relay's transfer shows on the step; delivered days settle into Finish day.",
-  "sha256": "5e52c21e5b23aaf3bad7aa55906ad6244b2db79eca0e0868bacc52acaa5af633",
-  "version": "0.1.36"
+  "archive_size": 152686266,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.37/ShowDigitalAssociate-0.1.37-macOS-arm64.zip",
+  "release_notes": "Production audit fixes: dots stay inside their row at the minimum window, Show details is safe to toggle mid-fade, three-option dialogs widen their card.",
+  "sha256": "7e32e1a6af016e38f48f448fbdab0c28c06319d88118a8cfd1811f702ce53ef3",
+  "version": "0.1.37"
 }

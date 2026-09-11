@@ -1,7 +1,7 @@
 {
-  "archive_size": 38784638,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.58/ShowDigitalAdmin-0.1.58-macOS-arm64.zip",
-  "release_notes": "Compress step: live ETA measured over the last minute, one header with the count and time left, a details drawer with per-package speed and time left, compress-only ends in place as the upload interface, Telegram milestones at compressed/25/50/75/90%.",
-  "sha256": "37002c690a777a1abb38e07248e0bd3d09e50a68e7203ff8944305a83be73bff",
-  "version": "0.1.58"
+  "archive_size": 38820975,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.59/ShowDigitalAdmin-0.1.59-macOS-arm64.zip",
+  "release_notes": "Compress + upload is the delivery hero: four dots, two counts, one line; settled Finish day; Upload to Dropbox in the footer for built days.",
+  "sha256": "991bab5b2d24fc180e2f5df6664b319b42a8e18294b760d8305a3678ffd873d8",
+  "version": "0.1.59"
 }

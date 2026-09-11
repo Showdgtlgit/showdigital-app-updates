@@ -1,7 +1,7 @@
 {
-  "archive_size": 152626110,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.35/ShowDigitalAssociate-0.1.35-macOS-arm64.zip",
-  "release_notes": "Show Digital Compression: raw-to-DNG conversion is about 2.5x faster at the same quality and file size (JPEG XL effort 3, distance 0.5). The previous method stays available as Show Digital Large Compression.",
-  "sha256": "6d5311faff2bcd956c684082c67ef4fbb998bd8a8024ff16b635b49172c2d165",
-  "version": "0.1.35"
+  "archive_size": 152683706,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.36/ShowDigitalAssociate-0.1.36-macOS-arm64.zip",
+  "release_notes": "Compress & Deliver is the delivery hero; the relay's transfer shows on the step; delivered days settle into Finish day.",
+  "sha256": "5e52c21e5b23aaf3bad7aa55906ad6244b2db79eca0e0868bacc52acaa5af633",
+  "version": "0.1.36"
 }

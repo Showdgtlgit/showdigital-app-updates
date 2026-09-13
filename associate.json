@@ -1,7 +1,7 @@
 {
-  "archive_size": 152686266,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.37/ShowDigitalAssociate-0.1.37-macOS-arm64.zip",
-  "release_notes": "Production audit fixes: dots stay inside their row at the minimum window, Show details is safe to toggle mid-fade, three-option dialogs widen their card.",
-  "sha256": "7e32e1a6af016e38f48f448fbdab0c28c06319d88118a8cfd1811f702ce53ef3",
-  "version": "0.1.37"
+  "archive_size": 152686330,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.38/ShowDigitalAssociate-0.1.38-macOS-arm64.zip",
+  "release_notes": "The finished last step paints green, not coral: the rail ends the day on ticks all the way down.",
+  "sha256": "3228addd926bbb7cc4817eeac0ae7d5a5aea68db5da9eed43f23e741399687f5",
+  "version": "0.1.38"
 }

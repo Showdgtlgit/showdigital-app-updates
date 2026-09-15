@@ -1,7 +1,7 @@
 {
-  "archive_size": 38860823,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.64/ShowDigitalAdmin-0.1.64-macOS-arm64.zip",
-  "release_notes": "Page-by-page audit at the 1100x720 floor: the step page tightens on a short window so Back / Next stay on screen; the delivery question leaves once a run is up.",
-  "sha256": "e388800109e31c13228dcfe0e1cb84464299a03e7d0df6f90ea645053d230264",
-  "version": "0.1.64"
+  "archive_size": 38860806,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.65/ShowDigitalAdmin-0.1.65-macOS-arm64.zip",
+  "release_notes": "Title strip re-centres when the Practice or Preview pill appears; Practice import ticks the camera and drone only; switching modes inside Setup & history lands on Welcome.",
+  "sha256": "3062fa0726358c6dc06335119e9405e5760d262563822f88fd83939aaf30e7c9",
+  "version": "0.1.65"
 }

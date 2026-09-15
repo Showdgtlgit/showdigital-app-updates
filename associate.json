@@ -1,7 +1,7 @@
 {
-  "archive_size": 152705558,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.40/ShowDigitalAssociate-0.1.40-macOS-arm64.zip",
-  "release_notes": "Title strip on the Mac buttons' row with the brand centred; the name moves to Setup & history; a corner grip and a 900-wide minimum.",
-  "sha256": "b4641a0a22ad391779db252b7784cbc10e9ed821a348901d6ba8251816aac808",
-  "version": "0.1.40"
+  "archive_size": 152707462,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.41/ShowDigitalAssociate-0.1.41-macOS-arm64.zip",
+  "release_notes": "Page-by-page audit at the 900x720 floor: the address chooser keeps its shape, the review prompt wraps, and the step page tightens on a short window.",
+  "sha256": "04617cc5e5cab447420d41d53e2497069d97748d142920dc37551b6e451ded18",
+  "version": "0.1.41"
 }

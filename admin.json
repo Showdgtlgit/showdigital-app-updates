@@ -1,7 +1,7 @@
 {
-  "archive_size": 38858591,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.63/ShowDigitalAdmin-0.1.63-macOS-arm64.zip",
-  "release_notes": "Title strip on the Mac buttons' row with the brand centred; a corner grip and a 1100x720 minimum; packages Dropbox already verified read Delivered before a run, from the engine's new receipts.",
-  "sha256": "2d71771d26e2817a3e385474822eb572741d50283b05651b01c23aac201e511e",
-  "version": "0.1.63"
+  "archive_size": 38860823,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.64/ShowDigitalAdmin-0.1.64-macOS-arm64.zip",
+  "release_notes": "Page-by-page audit at the 1100x720 floor: the step page tightens on a short window so Back / Next stay on screen; the delivery question leaves once a run is up.",
+  "sha256": "e388800109e31c13228dcfe0e1cb84464299a03e7d0df6f90ea645053d230264",
+  "version": "0.1.64"
 }

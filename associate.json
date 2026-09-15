@@ -1,7 +1,7 @@
 {
-  "archive_size": 152686330,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.38/ShowDigitalAssociate-0.1.38-macOS-arm64.zip",
-  "release_notes": "The finished last step paints green, not coral: the rail ends the day on ticks all the way down.",
-  "sha256": "3228addd926bbb7cc4817eeac0ae7d5a5aea68db5da9eed43f23e741399687f5",
-  "version": "0.1.38"
+  "archive_size": 152699659,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.39/ShowDigitalAssociate-0.1.39-macOS-arm64.zip",
+  "release_notes": "Shared delivery hero and panel from the hub: held rows say why in full, an honest compressed count, Run anyway / Retry held now / Finish without them; one card is one card on the import checklist.",
+  "sha256": "31575b0fc66074b03e2fbd4f80babed0062165e36a3ef9a56e7065d592202bab",
+  "version": "0.1.39"
 }

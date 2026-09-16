@@ -1,7 +1,7 @@
 {
-  "archive_size": 152711386,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.43/ShowDigitalAssociate-0.1.43-macOS-arm64.zip",
-  "release_notes": "Engine snapshot: Exclude is read from the sheet's Tags column; video clips route on their own GPS first, then the booked appointment window; twilight-line and review copy from 15 Sep.",
-  "sha256": "613436fb18d2ffd9b8ddaa34a2fa764603c9cee486947831ec1f66be6106bee4",
-  "version": "0.1.43"
+  "archive_size": 152713786,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.44/ShowDigitalAssociate-0.1.44-macOS-arm64.zip",
+  "release_notes": "A delivered day closes itself: once everything is delivered and checked, a 60-second countdown under Finish day finishes the day and lets the Mac sleep. Esc or a click stays.",
+  "sha256": "596254c12dda1983bdc4766b4c7fa36a79398d4183892da9abe9cafc4a4f3b44",
+  "version": "0.1.44"
 }

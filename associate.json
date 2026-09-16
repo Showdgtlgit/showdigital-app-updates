@@ -1,7 +1,7 @@
 {
-  "archive_size": 152707846,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.42/ShowDigitalAssociate-0.1.42-macOS-arm64.zip",
-  "release_notes": "Title strip re-centres when a part changes size or visibility (same fix as the hub).",
-  "sha256": "4ce14510fe10dba830bef14b8904215a00cbb23dc7f2d0b11e24529a589e1f7d",
-  "version": "0.1.42"
+  "archive_size": 152711386,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.43/ShowDigitalAssociate-0.1.43-macOS-arm64.zip",
+  "release_notes": "Engine snapshot: Exclude is read from the sheet's Tags column; video clips route on their own GPS first, then the booked appointment window; twilight-line and review copy from 15 Sep.",
+  "sha256": "613436fb18d2ffd9b8ddaa34a2fa764603c9cee486947831ec1f66be6106bee4",
+  "version": "0.1.43"
 }

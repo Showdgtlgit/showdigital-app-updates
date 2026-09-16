@@ -1,7 +1,7 @@
 {
-  "archive_size": 38863905,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.66/ShowDigitalAdmin-0.1.66-macOS-arm64.zip",
-  "release_notes": "Second card of a ticked kind is offered on the Import hero and auto-import attempts reset after each run; twilight line takes the arrow keys and 'Line is right' records the cut; clip picker shows the five longest clips first with Show all; wait cursor while clips are measured.",
-  "sha256": "932dec0545b3c7629a827e48841bf6358de36f74dde48d4636e6a373f926d76e",
-  "version": "0.1.66"
+  "archive_size": 38864774,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.67/ShowDigitalAdmin-0.1.67-macOS-arm64.zip",
+  "release_notes": "A delivered day closes itself: once everything is uploaded, a 60-second countdown under Finish day finishes the day and lets the Mac sleep. Esc or a click stays.",
+  "sha256": "4d79a605b3d3dfce3577b0b4e271ce8cc42d4efc7749cc31190f91468c9dd9e1",
+  "version": "0.1.67"
 }

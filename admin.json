@@ -1,7 +1,7 @@
 {
-  "archive_size": 38900264,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.68/ShowDigitalAdmin-0.1.68-macOS-arm64.zip",
-  "release_notes": "Setup & history: Get edited videos \u2014 downloads Derrick's newest reels and highlight videos into each listing's Edited Video folder and opens them in Finder.",
-  "sha256": "79c7817a088f9799726a923aa32a70e43df821cf2c8a237201d2d798013734c7",
-  "version": "0.1.68"
+  "archive_size": 38910152,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.69/ShowDigitalAdmin-0.1.69-macOS-arm64.zip",
+  "release_notes": "Edited videos on the day screen: a card appears at the foot of the day only while Derrick has sent a reel or highlight video this Mac has not filed. It names the streets, files them on one click, opens Finder, and leaves. Nothing waiting means no card.",
+  "sha256": "9d481c95ee1ed7733a24f8a440a3cd3e7427ba204102316bdf6e124703037452",
+  "version": "0.1.69"
 }

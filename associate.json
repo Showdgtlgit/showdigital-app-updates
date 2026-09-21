@@ -1,7 +1,7 @@
 {
-  "archive_size": 152732504,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.51/ShowDigitalAssociate-0.1.51-macOS-arm64.zip",
-  "release_notes": "When only the drone shots carry a location \u2014 the camera's GPS is off, or the body has none \u2014 the sorter no longer pre-fills a Yes. Those groups go to the review card with the reason spelled out. Nothing changes on a day the camera stamps GPS.",
-  "sha256": "0bbb0f4347e261779825c5aa145153f3ab64b8f3480241455086d07821577baf",
-  "version": "0.1.51"
+  "archive_size": 152732472,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.52/ShowDigitalAssociate-0.1.52-macOS-arm64.zip",
+  "release_notes": "A roomier top bar, matching the Admin app: the mark and the Setup & history button are sized the way Apple sizes its own toolbars. Also carries 0.1.51's review-card fix, which names an aerial-only fix plainly.",
+  "sha256": "6f812fb5c30f365b6589e4ca33ad866f5209006ac4af8b7195130132796048a2",
+  "version": "0.1.52"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 152733832,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.54/ShowDigitalAssociate-0.1.54-macOS-arm64.zip",
-  "release_notes": "Upload screen dots name the lane and drop the folder tag; headlines never strand one word; hint capsule centred under the step card; no sideways scroll at the smallest window.",
-  "sha256": "9cb62a82223b940ca532ebc3b2d0bcf50dbd3702eb5b04e242fa512ba89953ce",
-  "version": "0.1.54"
+  "archive_size": 152734184,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.55/ShowDigitalAssociate-0.1.55-macOS-arm64.zip",
+  "release_notes": "The Import step fits the smallest window: Back and Next stay on screen at 900x720.",
+  "sha256": "978517d062234f30f61ba654c232f8c323f8d44861908e330e5ca0dffd449944",
+  "version": "0.1.55"
 }

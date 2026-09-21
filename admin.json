@@ -1,7 +1,7 @@
 {
-  "archive_size": 38954023,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.71/ShowDigitalAdmin-0.1.71-macOS-arm64.zip",
-  "release_notes": "The welcome screen is gone for good \u2014 Home is the front door. Audit pass: the Archive tile no longer demands a month close a rehearsal cannot start, the Videos page's run report sits in a card of its own, and the page's duplicate Home link is gone in favour of the one in the title strip.",
-  "sha256": "aa202f065b2007fa699b94965c47af8a4169d009e2a383d418575d540fda586d",
-  "version": "0.1.71"
+  "archive_size": 38955890,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.72/ShowDigitalAdmin-0.1.72-macOS-arm64.zip",
+  "release_notes": "A roomier top bar: the Show Digital mark and the Home and Setup & history buttons are sized the way Apple sizes its own toolbars, so the strip no longer reads as squashed.",
+  "sha256": "de46e4a1f6a5ef40d524fdaa58866dad3b5eece0fc8a5fcf989798fc82cd6b8c",
+  "version": "0.1.72"
 }

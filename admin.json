@@ -1,7 +1,7 @@
 {
-  "archive_size": 38955890,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.72/ShowDigitalAdmin-0.1.72-macOS-arm64.zip",
-  "release_notes": "A roomier top bar: the Show Digital mark and the Home and Setup & history buttons are sized the way Apple sizes its own toolbars, so the strip no longer reads as squashed.",
-  "sha256": "de46e4a1f6a5ef40d524fdaa58866dad3b5eece0fc8a5fcf989798fc82cd6b8c",
-  "version": "0.1.72"
+  "archive_size": 38957128,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.73/ShowDigitalAdmin-0.1.73-macOS-arm64.zip",
+  "release_notes": "Title strip without the logo. Videos page downloads on open with a live bar, MB/s and time left. No Finder window after a download.",
+  "sha256": "7964c73f8bea9ba25f108619bab3e98e935e8d7b723d72ef10cafd590c49b09d",
+  "version": "0.1.73"
 }

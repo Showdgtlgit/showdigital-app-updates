@@ -1,7 +1,7 @@
 {
-  "archive_size": 38966073,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.70/ShowDigitalAdmin-0.1.70-macOS-arm64.zip",
-  "release_notes": "A home screen: the app opens on three tiles \u2014 Edited videos, Today's workflow, Archive & backup \u2014 with a Home button to get back from anywhere. Videos gets its own page: new arrivals grouped by day, a check circle to mark each one finished, and a Finished drawer that holds them until month end. The Archive tile says which month still needs backing up and opens step 1 of the month close.",
-  "sha256": "bb598244fb6549f8ddeb84ed3143ed3d09f313eccd570722bbb5a8129eddad6e",
-  "version": "0.1.70"
+  "archive_size": 38954023,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.71/ShowDigitalAdmin-0.1.71-macOS-arm64.zip",
+  "release_notes": "The welcome screen is gone for good \u2014 Home is the front door. Audit pass: the Archive tile no longer demands a month close a rehearsal cannot start, the Videos page's run report sits in a card of its own, and the page's duplicate Home link is gone in favour of the one in the title strip.",
+  "sha256": "aa202f065b2007fa699b94965c47af8a4169d009e2a383d418575d540fda586d",
+  "version": "0.1.71"
 }

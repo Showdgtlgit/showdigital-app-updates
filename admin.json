@@ -1,7 +1,7 @@
 {
-  "archive_size": 38910152,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.69/ShowDigitalAdmin-0.1.69-macOS-arm64.zip",
-  "release_notes": "Edited videos on the day screen: a card appears at the foot of the day only while Derrick has sent a reel or highlight video this Mac has not filed. It names the streets, files them on one click, opens Finder, and leaves. Nothing waiting means no card.",
-  "sha256": "9d481c95ee1ed7733a24f8a440a3cd3e7427ba204102316bdf6e124703037452",
-  "version": "0.1.69"
+  "archive_size": 38966073,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.70/ShowDigitalAdmin-0.1.70-macOS-arm64.zip",
+  "release_notes": "A home screen: the app opens on three tiles \u2014 Edited videos, Today's workflow, Archive & backup \u2014 with a Home button to get back from anywhere. Videos gets its own page: new arrivals grouped by day, a check circle to mark each one finished, and a Finished drawer that holds them until month end. The Archive tile says which month still needs backing up and opens step 1 of the month close.",
+  "sha256": "bb598244fb6549f8ddeb84ed3143ed3d09f313eccd570722bbb5a8129eddad6e",
+  "version": "0.1.70"
 }

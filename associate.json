@@ -1,7 +1,7 @@
 {
-  "archive_size": 152730411,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.50/ShowDigitalAssociate-0.1.50-macOS-arm64.zip",
-  "release_notes": "Title strip: the Show Digital mark alone, without the words. No workflow changes.",
-  "sha256": "bc2c73d196eb5ebdeb1d89ca0470a1010e61636342674dd32730d93d86e81464",
-  "version": "0.1.50"
+  "archive_size": 152732504,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.51/ShowDigitalAssociate-0.1.51-macOS-arm64.zip",
+  "release_notes": "When only the drone shots carry a location \u2014 the camera's GPS is off, or the body has none \u2014 the sorter no longer pre-fills a Yes. Those groups go to the review card with the reason spelled out. Nothing changes on a day the camera stamps GPS.",
+  "sha256": "0bbb0f4347e261779825c5aa145153f3ab64b8f3480241455086d07821577baf",
+  "version": "0.1.51"
 }

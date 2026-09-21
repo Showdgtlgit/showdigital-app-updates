@@ -1,7 +1,7 @@
 {
-  "archive_size": 152732472,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.52/ShowDigitalAssociate-0.1.52-macOS-arm64.zip",
-  "release_notes": "A roomier top bar, matching the Admin app: the mark and the Setup & history button are sized the way Apple sizes its own toolbars. Also carries 0.1.51's review-card fix, which names an aerial-only fix plainly.",
-  "sha256": "6f812fb5c30f365b6589e4ca33ad866f5209006ac4af8b7195130132796048a2",
-  "version": "0.1.52"
+  "archive_size": 152731656,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.53/ShowDigitalAssociate-0.1.53-macOS-arm64.zip",
+  "release_notes": "Title strip without the logo.",
+  "sha256": "9ba13c7a1f29319f33ddef0fa2ee282df66dc74eed0afae1f0456a8e05b81905",
+  "version": "0.1.53"
 }

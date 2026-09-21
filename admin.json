@@ -1,7 +1,7 @@
 {
-  "archive_size": 38957128,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.73/ShowDigitalAdmin-0.1.73-macOS-arm64.zip",
-  "release_notes": "Title strip without the logo. Videos page downloads on open with a live bar, MB/s and time left. No Finder window after a download.",
-  "sha256": "7964c73f8bea9ba25f108619bab3e98e935e8d7b723d72ef10cafd590c49b09d",
-  "version": "0.1.73"
+  "archive_size": 38959665,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.74/ShowDigitalAdmin-0.1.74-macOS-arm64.zip",
+  "release_notes": "Upload screen dots name the lane (Reel / Highlight / Video) and drop the folder tag; headlines never strand one word; hint capsule centred under the step card; tidier empty review and Videos page.",
+  "sha256": "8e0d62c21bae289764a2819522cf99520076f9076f0de8e81d95e0af41db95c8",
+  "version": "0.1.74"
 }

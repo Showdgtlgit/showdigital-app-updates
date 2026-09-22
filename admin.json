@@ -1,7 +1,7 @@
 {
-  "archive_size": 39005361,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.78/ShowDigitalAdmin-0.1.78-macOS-arm64.zip",
-  "release_notes": "Videos: delivered and paid are separate sections, Complete drawer, and Derrick's pay card (time reports checked against screen recordings, Mark paid, monthly summary for the NAS).",
-  "sha256": "acba2f9deb33e93e0c0bbf44f1a521b13ba8fe23a49823f8f001bda8523701e0",
-  "version": "0.1.78"
+  "archive_size": 39104408,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.79/ShowDigitalAdmin-0.1.79-macOS-arm64.zip",
+  "release_notes": "Split day: deliver the morning, sort a late calendar shoot after it. The day stays open with 'still to sort' and an Import more button; the second sort routes only the new files and never touches a delivered order; late frames for a delivered order get their own review card.",
+  "sha256": "f4cf6d09caf03ca99e3dd9ce7a7c38f0f3f7679ba208b0cfc8adee15ec24509f",
+  "version": "0.1.79"
 }

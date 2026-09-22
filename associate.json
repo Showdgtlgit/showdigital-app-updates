@@ -1,7 +1,7 @@
 {
-  "archive_size": 152735112,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.56/ShowDigitalAssociate-0.1.56-macOS-arm64.zip",
-  "release_notes": "Try again runs without a second confirm; the Finish day footer line sits centred under Stop uploads.",
-  "sha256": "17b071717ec6aff3a8dbaedde57fa8828785957d9583353f7acce6484959785a",
-  "version": "0.1.56"
+  "archive_size": 152736840,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.57/ShowDigitalAssociate-0.1.57-macOS-arm64.zip",
+  "release_notes": "UI audit: wrap screen and line editor fit the 900x720 window; checkboxes show a box; dot labels keep their last letter; Undo toast above the decision bar; failure notes say try again.",
+  "sha256": "db0f7a8c60b7866d983197aaded1684675d207ea6e1ef96f3bb7b3fa5c20bf69",
+  "version": "0.1.57"
 }

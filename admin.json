@@ -1,7 +1,7 @@
 {
-  "archive_size": 38981042,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.75/ShowDigitalAdmin-0.1.75-macOS-arm64.zip",
-  "release_notes": "Home health line; one-click Undo sort; builds refuse drifted shared modules.",
-  "sha256": "73bfb9ccbe8c16ee8a4e31a1a7a121ab59f629c23cc52422c5f1c97acdbc64ea",
-  "version": "0.1.75"
+  "archive_size": 38980206,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.76/ShowDigitalAdmin-0.1.76-macOS-arm64.zip",
+  "release_notes": "Stop uploads takes one press and no longer pops the run panel; Try again runs without a second confirm; the Finish day footer line sits centred under Stop uploads.",
+  "sha256": "357fe3d057fc230f73f5712f13689695458afa84b3fb80dd8c3b0252ad571287",
+  "version": "0.1.76"
 }

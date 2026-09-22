@@ -1,7 +1,7 @@
 {
-  "archive_size": 39104408,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.79/ShowDigitalAdmin-0.1.79-macOS-arm64.zip",
-  "release_notes": "Split day: deliver the morning, sort a late calendar shoot after it. The day stays open with 'still to sort' and an Import more button; the second sort routes only the new files and never touches a delivered order; late frames for a delivered order get their own review card.",
-  "sha256": "f4cf6d09caf03ca99e3dd9ce7a7c38f0f3f7679ba208b0cfc8adee15ec24509f",
-  "version": "0.1.79"
+  "archive_size": 39108396,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.80/ShowDigitalAdmin-0.1.80-macOS-arm64.zip",
+  "release_notes": "Videos: Review and Outstanding invoices open shut with the count and what is owed; Email Derrick drafts the pay email; opening the page fetches, no button; a reshoot folder takes its video and recording.",
+  "sha256": "9dd121569d2044424d958ba5dfe18a9b4aa8b6fb14d7799fc737246da0054c2f",
+  "version": "0.1.80"
 }

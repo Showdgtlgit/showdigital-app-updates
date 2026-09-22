@@ -1,7 +1,7 @@
 {
-  "archive_size": 38980206,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.76/ShowDigitalAdmin-0.1.76-macOS-arm64.zip",
-  "release_notes": "Stop uploads takes one press and no longer pops the run panel; Try again runs without a second confirm; the Finish day footer line sits centred under Stop uploads.",
-  "sha256": "357fe3d057fc230f73f5712f13689695458afa84b3fb80dd8c3b0252ad571287",
-  "version": "0.1.76"
+  "archive_size": 38983731,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.77/ShowDigitalAdmin-0.1.77-macOS-arm64.zip",
+  "release_notes": "UI audit: a failed step no longer raises the run panel over Try again; Undo toast sits above the decision bar; cancelled Sort offers Try sorting again; import button greys out while a run copies; footer lines fit on one line.",
+  "sha256": "256f10f29772a9ddba3874b557f4cfcf9c9291a75131cb8396b4175718eae416",
+  "version": "0.1.77"
 }

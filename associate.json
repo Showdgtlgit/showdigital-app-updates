@@ -1,7 +1,7 @@
 {
-  "archive_size": 152736840,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.57/ShowDigitalAssociate-0.1.57-macOS-arm64.zip",
-  "release_notes": "UI audit: wrap screen and line editor fit the 900x720 window; checkboxes show a box; dot labels keep their last letter; Undo toast above the decision bar; failure notes say try again.",
-  "sha256": "db0f7a8c60b7866d983197aaded1684675d207ea6e1ef96f3bb7b3fa5c20bf69",
-  "version": "0.1.57"
+  "archive_size": 152736760,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.58/ShowDigitalAssociate-0.1.58-macOS-arm64.zip",
+  "release_notes": "Matches the admin app: a failed step no longer raises the run panel over Try again; the import button reads Import SD card; the review hint reads N wrong address.",
+  "sha256": "eb7f3d0fe3a2511ab8c1819c453e1e00db2bc161253e9a3eba9a2f6278e23866",
+  "version": "0.1.58"
 }

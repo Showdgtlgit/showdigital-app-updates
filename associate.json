@@ -1,7 +1,7 @@
 {
-  "archive_size": 152736760,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.58/ShowDigitalAssociate-0.1.58-macOS-arm64.zip",
-  "release_notes": "Matches the admin app: a failed step no longer raises the run panel over Try again; the import button reads Import SD card; the review hint reads N wrong address.",
-  "sha256": "eb7f3d0fe3a2511ab8c1819c453e1e00db2bc161253e9a3eba9a2f6278e23866",
-  "version": "0.1.58"
+  "archive_size": 152746556,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.59/ShowDigitalAssociate-0.1.59-macOS-arm64.zip",
+  "release_notes": "Rebuilt on the split-day sorter, so both apps run one engine. No change to the associate workflow: the delivered-order locks and the new-files-only sort are admin-only.",
+  "sha256": "28a01a5a7ce956608bfa025dd71329bb972a48765b6651c1b51d4aef4df5598b",
+  "version": "0.1.59"
 }

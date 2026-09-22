@@ -1,7 +1,7 @@
 {
-  "archive_size": 38983731,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.77/ShowDigitalAdmin-0.1.77-macOS-arm64.zip",
-  "release_notes": "UI audit: a failed step no longer raises the run panel over Try again; Undo toast sits above the decision bar; cancelled Sort offers Try sorting again; import button greys out while a run copies; footer lines fit on one line.",
-  "sha256": "256f10f29772a9ddba3874b557f4cfcf9c9291a75131cb8396b4175718eae416",
-  "version": "0.1.77"
+  "archive_size": 39005361,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.78/ShowDigitalAdmin-0.1.78-macOS-arm64.zip",
+  "release_notes": "Videos: delivered and paid are separate sections, Complete drawer, and Derrick's pay card (time reports checked against screen recordings, Mark paid, monthly summary for the NAS).",
+  "sha256": "acba2f9deb33e93e0c0bbf44f1a521b13ba8fe23a49823f8f001bda8523701e0",
+  "version": "0.1.78"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 152746556,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.59/ShowDigitalAssociate-0.1.59-macOS-arm64.zip",
-  "release_notes": "Rebuilt on the split-day sorter, so both apps run one engine. No change to the associate workflow: the delivered-order locks and the new-files-only sort are admin-only.",
-  "sha256": "28a01a5a7ce956608bfa025dd71329bb972a48765b6651c1b51d4aef4df5598b",
-  "version": "0.1.59"
+  "archive_size": 152746492,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.60/ShowDigitalAssociate-0.1.60-macOS-arm64.zip",
+  "release_notes": "Back and Next line up with the card instead of the whole window.",
+  "sha256": "d392f83da8254721b4f12c402e76550d06235581123bd7951d5e69f054b56eb7",
+  "version": "0.1.60"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39108396,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.80/ShowDigitalAdmin-0.1.80-macOS-arm64.zip",
-  "release_notes": "Videos: Review and Outstanding invoices open shut with the count and what is owed; Email Derrick drafts the pay email; opening the page fetches, no button; a reshoot folder takes its video and recording.",
-  "sha256": "9dd121569d2044424d958ba5dfe18a9b4aa8b6fb14d7799fc737246da0054c2f",
-  "version": "0.1.80"
+  "archive_size": 39122067,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.81/ShowDigitalAdmin-0.1.81-macOS-arm64.zip",
+  "release_notes": "Videos: the month's orders \u2014 what is still with Derrick (late after 48 h), reels delivered straight from Aryeo, older jobs paid by hand, recording length paid when no time is given, month orders file for the NAS. Back and Next line up with the card.",
+  "sha256": "b2ae4ca3cda78f373261d551739339485d4dba65c77703e52c5c2578340e2229",
+  "version": "0.1.81"
 }

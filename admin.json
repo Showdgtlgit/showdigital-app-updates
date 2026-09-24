@@ -1,7 +1,7 @@
 {
-  "archive_size": 39123323,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.82/ShowDigitalAdmin-0.1.82-macOS-arm64.zip",
-  "release_notes": "Videos: Today and In process always showing; Open project relinks clips after a listing moves; reel picker asks which clips are for the reel.",
-  "sha256": "96390e28c07c46083c43e24805de5d7af10744a822769e177b2be402c5390b10",
-  "version": "0.1.82"
+  "archive_size": 39125381,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.83/ShowDigitalAdmin-0.1.83-macOS-arm64.zip",
+  "release_notes": "The Import more button is a proper rounded pill and is never cut off in a short window.",
+  "sha256": "97475952d9d59180d770d94d714f454712cc19ef119daafcc17be9560d0694e3",
+  "version": "0.1.83"
 }

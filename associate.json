@@ -1,7 +1,7 @@
 {
-  "archive_size": 152746492,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.60/ShowDigitalAssociate-0.1.60-macOS-arm64.zip",
-  "release_notes": "Back and Next line up with the card instead of the whole window.",
-  "sha256": "d392f83da8254721b4f12c402e76550d06235581123bd7951d5e69f054b56eb7",
-  "version": "0.1.60"
+  "archive_size": 152748043,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.61/ShowDigitalAssociate-0.1.61-macOS-arm64.zip",
+  "release_notes": "Reel picker: asks which clips are for the reel, with one short line why \u2014 same wording as the admin app.",
+  "sha256": "3ea304b15ae7dde76e5fe64e26ffad8e6a76ba90d93b38bb553f16cfc952454f",
+  "version": "0.1.61"
 }

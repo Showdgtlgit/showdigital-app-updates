@@ -1,7 +1,7 @@
 {
-  "archive_size": 39122067,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.81/ShowDigitalAdmin-0.1.81-macOS-arm64.zip",
-  "release_notes": "Videos: the month's orders \u2014 what is still with Derrick (late after 48 h), reels delivered straight from Aryeo, older jobs paid by hand, recording length paid when no time is given, month orders file for the NAS. Back and Next line up with the card.",
-  "sha256": "b2ae4ca3cda78f373261d551739339485d4dba65c77703e52c5c2578340e2229",
-  "version": "0.1.81"
+  "archive_size": 39123323,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.82/ShowDigitalAdmin-0.1.82-macOS-arm64.zip",
+  "release_notes": "Videos: Today and In process always showing; Open project relinks clips after a listing moves; reel picker asks which clips are for the reel.",
+  "sha256": "96390e28c07c46083c43e24805de5d7af10744a822769e177b2be402c5390b10",
+  "version": "0.1.82"
 }

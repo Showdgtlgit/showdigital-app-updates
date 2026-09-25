@@ -1,7 +1,7 @@
 {
-  "archive_size": 39125381,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.83/ShowDigitalAdmin-0.1.83-macOS-arm64.zip",
-  "release_notes": "The Import more button is a proper rounded pill and is never cut off in a short window.",
-  "sha256": "97475952d9d59180d770d94d714f454712cc19ef119daafcc17be9560d0694e3",
-  "version": "0.1.83"
+  "archive_size": 39121577,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.84/ShowDigitalAdmin-0.1.84-macOS-arm64.zip",
+  "release_notes": "Edited videos show only on the Videos page; opening it downloads them.",
+  "sha256": "720850fb8f5b20632d7b5c4bc5119fba5cd22dd1b0398350d4d81ead800c1366",
+  "version": "0.1.84"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39160977,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.87/ShowDigitalAdmin-0.1.87-macOS-arm64.zip",
-  "release_notes": "Videos: Derrick's pay email covers every unpaid recording with its date range (a missed week stretches it), asks for anything it can't price yet, and says Highlight/Reel when one address has two. A \"Paid Derrick\" tap on the Sunday Telegram now marks the same recordings paid on the Videos page. Finished rows show their pay instead of cutting it off.",
-  "sha256": "021a61c7dff48df2f113fde05ae13d9630462e4c8d23ada177c70abc997aadeb",
-  "version": "0.1.87"
+  "archive_size": 39163012,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.88/ShowDigitalAdmin-0.1.88-macOS-arm64.zip",
+  "release_notes": "Videos: Mark paid and Undo now also update the mini's Sunday Telegram reminder, so a batch paid in the app is never asked about there. Anything the mini misses while it's away is sent on the next good read.",
+  "sha256": "94f3cdcd0afe27304d48bbd2b7833240b9056b408d69df5f1b0eb493b473745a",
+  "version": "0.1.88"
 }

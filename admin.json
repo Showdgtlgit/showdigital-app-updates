@@ -1,7 +1,7 @@
 {
-  "archive_size": 39153740,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.86/ShowDigitalAdmin-0.1.86-macOS-arm64.zip",
-  "release_notes": "Edited videos page redesigned: To pay Derrick and Longest open tiles, then Expected, In progress and Completed. Notes on any job.",
-  "sha256": "a349bd50dd609290af7c4c0984cef50679eb5030e6754eb7254a5664b47f626e",
-  "version": "0.1.86"
+  "archive_size": 39160977,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.87/ShowDigitalAdmin-0.1.87-macOS-arm64.zip",
+  "release_notes": "Videos: Derrick's pay email covers every unpaid recording with its date range (a missed week stretches it), asks for anything it can't price yet, and says Highlight/Reel when one address has two. A \"Paid Derrick\" tap on the Sunday Telegram now marks the same recordings paid on the Videos page. Finished rows show their pay instead of cutting it off.",
+  "sha256": "021a61c7dff48df2f113fde05ae13d9630462e4c8d23ada177c70abc997aadeb",
+  "version": "0.1.87"
 }

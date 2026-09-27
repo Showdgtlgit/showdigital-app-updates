@@ -1,7 +1,7 @@
 {
-  "archive_size": 39123481,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.85/ShowDigitalAdmin-0.1.85-macOS-arm64.zip",
-  "release_notes": "Home health line no longer flags the Dropbox check as blocked on a day with no orders.",
-  "sha256": "e758761d0248bf3c9f5d0fcb75766edbe09d03011a7c11224deb66c594a0c8d2",
-  "version": "0.1.85"
+  "archive_size": 39153740,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.86/ShowDigitalAdmin-0.1.86-macOS-arm64.zip",
+  "release_notes": "Edited videos page redesigned: To pay Derrick and Longest open tiles, then Expected, In progress and Completed. Notes on any job.",
+  "sha256": "a349bd50dd609290af7c4c0984cef50679eb5030e6754eb7254a5664b47f626e",
+  "version": "0.1.86"
 }

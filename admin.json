@@ -1,7 +1,7 @@
 {
-  "archive_size": 39192522,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.90/ShowDigitalAdmin-0.1.90-macOS-arm64.zip",
-  "release_notes": "Status moved to the order dashboard: the Home tile reads Delivery and Team pay from there, and Open status shows them as a native screen (tabs Delivery and Team pay). The browser link opens the dashboard page you're looking at.",
-  "sha256": "505401b532e7112eea2e7eb4e8407c346d3d5790932548959b418705b15ca660",
-  "version": "0.1.90"
+  "archive_size": 39191943,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.91/ShowDigitalAdmin-0.1.91-macOS-arm64.zip",
+  "release_notes": "Home: the Status tile shows times in Central, the same clock as the Status page, wherever this Mac is.",
+  "sha256": "e5122b9ca41b2c0fe7e1da743688704baf73e0c0b0579abff4b50fb2561cb699",
+  "version": "0.1.91"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39167600,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.89/ShowDigitalAdmin-0.1.89-macOS-arm64.zip",
-  "release_notes": "Home: a Status tile (orders & pay) takes the left slot. It shows the Status page's own sentence (late orders, orders in progress, pay due) and opens the page in your browser; Edited videos is its link line.",
-  "sha256": "d4fe879e8857c6a329acb746708234b2aedd8a4cff7c802f10a366348ceb06f7",
-  "version": "0.1.89"
+  "archive_size": 39192522,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.90/ShowDigitalAdmin-0.1.90-macOS-arm64.zip",
+  "release_notes": "Status moved to the order dashboard: the Home tile reads Delivery and Team pay from there, and Open status shows them as a native screen (tabs Delivery and Team pay). The browser link opens the dashboard page you're looking at.",
+  "sha256": "505401b532e7112eea2e7eb4e8407c346d3d5790932548959b418705b15ca660",
+  "version": "0.1.90"
 }

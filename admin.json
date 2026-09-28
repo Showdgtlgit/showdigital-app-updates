@@ -1,7 +1,7 @@
 {
-  "archive_size": 39163012,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.88/ShowDigitalAdmin-0.1.88-macOS-arm64.zip",
-  "release_notes": "Videos: Mark paid and Undo now also update the mini's Sunday Telegram reminder, so a batch paid in the app is never asked about there. Anything the mini misses while it's away is sent on the next good read.",
-  "sha256": "94f3cdcd0afe27304d48bbd2b7833240b9056b408d69df5f1b0eb493b473745a",
-  "version": "0.1.88"
+  "archive_size": 39167600,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.89/ShowDigitalAdmin-0.1.89-macOS-arm64.zip",
+  "release_notes": "Home: a Status tile (orders & pay) takes the left slot. It shows the Status page's own sentence (late orders, orders in progress, pay due) and opens the page in your browser; Edited videos is its link line.",
+  "sha256": "d4fe879e8857c6a329acb746708234b2aedd8a4cff7c802f10a366348ceb06f7",
+  "version": "0.1.89"
 }

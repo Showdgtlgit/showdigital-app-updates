@@ -1,7 +1,7 @@
 {
-  "archive_size": 39209670,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.94/ShowDigitalAdmin-0.1.94-macOS-arm64.zip",
-  "release_notes": "Delivery screen: each order shows the same header as the dashboard's Today card and one line per tag (delivered, due, late), plus Alex delivers and note pills.",
-  "sha256": "72bc4fcf366dc3841b5ac969f5852114b4d9d374d920acbc0b000b67c342d0b3",
-  "version": "0.1.94"
+  "archive_size": 39209644,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.95/ShowDigitalAdmin-0.1.95-macOS-arm64.zip",
+  "release_notes": "Status tile refreshes every 2 minutes, matching the mini's Aryeo poll.",
+  "sha256": "9709bc074cdc5283a3a7ec4792f892b229f7818feef728e3a67dceed5ce0f401",
+  "version": "0.1.95"
 }

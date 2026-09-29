@@ -1,7 +1,7 @@
 {
-  "archive_size": 39208463,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.92/ShowDigitalAdmin-0.1.92-macOS-arm64.zip",
-  "release_notes": "Morning setup is near-instant: it starts by itself when the app opens (Live), waits for the internet first, and opens Import the moment the workspace reset lands while today's folders finish behind it. Sort waits for setup to finish. If setup fails after the reset, 'Finish setup' retries without resetting again.",
-  "sha256": "69e850feb19a223f2eb8f123db69a9751995bc3a14a2293da5df38e2dc4d45ef",
-  "version": "0.1.92"
+  "archive_size": 39209196,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.93/ShowDigitalAdmin-0.1.93-macOS-arm64.zip",
+  "release_notes": "Morning setup is near-instant: it starts by itself when the app opens (Live), waits for the internet first, and opens Import the moment the workspace reset lands while today's folders finish behind it. Sort waits for setup to finish. If a newer version is out, the app waits on the home screen and Start offers the update first.",
+  "sha256": "6fe06b62323dcb56d3f3ed50b2d3782b48ec2013502b47f35fbc626b58147ed9",
+  "version": "0.1.93"
 }

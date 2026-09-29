@@ -1,7 +1,7 @@
 {
-  "archive_size": 39191943,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.91/ShowDigitalAdmin-0.1.91-macOS-arm64.zip",
-  "release_notes": "Home: the Status tile shows times in Central, the same clock as the Status page, wherever this Mac is.",
-  "sha256": "e5122b9ca41b2c0fe7e1da743688704baf73e0c0b0579abff4b50fb2561cb699",
-  "version": "0.1.91"
+  "archive_size": 39208463,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.92/ShowDigitalAdmin-0.1.92-macOS-arm64.zip",
+  "release_notes": "Morning setup is near-instant: it starts by itself when the app opens (Live), waits for the internet first, and opens Import the moment the workspace reset lands while today's folders finish behind it. Sort waits for setup to finish. If setup fails after the reset, 'Finish setup' retries without resetting again.",
+  "sha256": "69e850feb19a223f2eb8f123db69a9751995bc3a14a2293da5df38e2dc4d45ef",
+  "version": "0.1.92"
 }

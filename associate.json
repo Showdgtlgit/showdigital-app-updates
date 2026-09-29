@@ -1,7 +1,7 @@
 {
-  "archive_size": 152748043,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.61/ShowDigitalAssociate-0.1.61-macOS-arm64.zip",
-  "release_notes": "Reel picker: asks which clips are for the reel, with one short line why \u2014 same wording as the admin app.",
-  "sha256": "3ea304b15ae7dde76e5fe64e26ffad8e6a76ba90d93b38bb553f16cfc952454f",
-  "version": "0.1.61"
+  "archive_size": 152765993,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.62/ShowDigitalAssociate-0.1.62-macOS-arm64.zip",
+  "release_notes": "Morning setup is near-instant: it starts by itself when the app opens (Live), waits for the internet first, and opens Import the moment the workspace reset lands while today's folders finish behind it. Sort waits for setup to finish. If setup fails after the reset, the retry makes the folders without resetting again.",
+  "sha256": "656effdb16db7f793d780120f1e659be41dca78b59f17c1237e3dfe16f354d8c",
+  "version": "0.1.62"
 }

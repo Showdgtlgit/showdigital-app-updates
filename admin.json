@@ -1,7 +1,7 @@
 {
-  "archive_size": 39216248,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.96/ShowDigitalAdmin-0.1.96-macOS-arm64.zip",
-  "release_notes": "Delivery shows where each reel and highlight is with the editor, with Open reel / Open highlight video; the Videos page marks a job late at the editor's noon-next-day deadline.",
-  "sha256": "b61009174ffa75397a218e8b9d094b560d17af68ef0fec7303ccc9a93eb7ced3",
-  "version": "0.1.96"
+  "archive_size": 39218729,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.97/ShowDigitalAdmin-0.1.97-macOS-arm64.zip",
+  "release_notes": "Delivery: Download reel / Download highlight video on a video back from the editor, and an Edited videos link in the Status header.",
+  "sha256": "e9d58aca98c50726a88697921bfa795c29c436e0f2a27f500e7de91c20773fef",
+  "version": "0.1.97"
 }

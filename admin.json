@@ -1,7 +1,7 @@
 {
-  "archive_size": 39209644,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.95/ShowDigitalAdmin-0.1.95-macOS-arm64.zip",
-  "release_notes": "Status tile refreshes every 2 minutes, matching the mini's Aryeo poll.",
-  "sha256": "9709bc074cdc5283a3a7ec4792f892b229f7818feef728e3a67dceed5ce0f401",
-  "version": "0.1.95"
+  "archive_size": 39216248,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.96/ShowDigitalAdmin-0.1.96-macOS-arm64.zip",
+  "release_notes": "Delivery shows where each reel and highlight is with the editor, with Open reel / Open highlight video; the Videos page marks a job late at the editor's noon-next-day deadline.",
+  "sha256": "b61009174ffa75397a218e8b9d094b560d17af68ef0fec7303ccc9a93eb7ced3",
+  "version": "0.1.96"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39218729,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.97/ShowDigitalAdmin-0.1.97-macOS-arm64.zip",
-  "release_notes": "Delivery: Download reel / Download highlight video on a video back from the editor, and an Edited videos link in the Status header.",
-  "sha256": "e9d58aca98c50726a88697921bfa795c29c436e0f2a27f500e7de91c20773fef",
-  "version": "0.1.97"
+  "archive_size": 39219359,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.98/ShowDigitalAdmin-0.1.98-macOS-arm64.zip",
+  "release_notes": "Edited videos download in the background; the app won't quit or auto-close mid-download.",
+  "sha256": "fcd4ba450855a347aed8286767f1b5a0e7dbddf584a70dd34a2f6fa93b19c58c",
+  "version": "0.1.98"
 }

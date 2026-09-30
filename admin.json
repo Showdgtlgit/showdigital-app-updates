@@ -1,7 +1,7 @@
 {
-  "archive_size": 39232965,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.101/ShowDigitalAdmin-0.1.101-macOS-arm64.zip",
-  "release_notes": "Archive tile follows the month close as it runs: step, upload progress, time left, and the result. A stopped run says why and copies the step 2 command.",
-  "sha256": "672a81cbdea67e2b9d0e334b9fb8dc972e638aa128b2ae7181ffd38ceae10c02",
-  "version": "0.1.101"
+  "archive_size": 39179456,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.102/ShowDigitalAdmin-0.1.102-macOS-arm64.zip",
+  "release_notes": "Derrick's Team pay card now shows any time that needs a check, with a button for each time to pay, and an Email the pay summary link. The separate Videos page is gone; videos are on the Delivery cards.",
+  "sha256": "1e37eac9d776e07c6a23ef4669bda32031ca6df62b319c2fbf52b7ff3b67c7e5",
+  "version": "0.1.102"
 }

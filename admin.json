@@ -1,7 +1,7 @@
 {
-  "archive_size": 39218495,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.99/ShowDigitalAdmin-0.1.99-macOS-arm64.zip",
-  "release_notes": "Opening the app no longer starts the morning setup. Setup runs only when you press Start on Today's workflow.",
-  "sha256": "47e21a1b71514fc645064079a38b6ddf8417af585dc0861524bea42a9ea5dd2e",
-  "version": "0.1.99"
+  "archive_size": 39221734,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.100/ShowDigitalAdmin-0.1.100-macOS-arm64.zip",
+  "release_notes": "Home's left tile is now Delivery & Pay. Edited videos are on the Delivery order cards: download, open, Open project and Show in Finder.",
+  "sha256": "f383d8411bab47855b43caa4ebbb97cf712ef538984216602a7f064c7f5ffefb",
+  "version": "0.1.100"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39198153,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.105/ShowDigitalAdmin-0.1.105-macOS-arm64.zip",
-  "release_notes": "Debug pass: a split day's afternoon order is converted before it is sent; Start warns before resetting over unsent work and never resets twice; review keys only act on the group on screen, undo is saved, and moved groups follow their files; Stop uploads is acknowledged and Force stop arms after 4 s; a failed import no longer reads as imported; an overnight session rolls onto the new day; Sort always waits for Next; an Undo on Team pay comes back to this Mac.",
-  "sha256": "6a2b419080eede4e84e9310aa060424199cd57410b0c68a01677e26096da6fd8",
-  "version": "0.1.105"
+  "archive_size": 39198002,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.106/ShowDigitalAdmin-0.1.106-macOS-arm64.zip",
+  "release_notes": "Resume after a setup that reset the workspace but never finished its folders now finishes it, and Sort stays locked until it does.",
+  "sha256": "3bb1c4dd5abf39855435938d849416d185b99b7746a55c4bac662968e1ad7b97",
+  "version": "0.1.106"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39198124,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.107/ShowDigitalAdmin-0.1.107-macOS-arm64.zip",
-  "release_notes": "Twilight-only orders: the rest of the day delivers before sunset; the twilight shoot stays 'still to sort' until its frames are in Twilight/, and nothing is ever sent to an editor.",
-  "sha256": "496f833d2dcf87a7cec579af82434d8722717eeccb01fa85bc3e676f96a0d575",
-  "version": "0.1.107"
+  "archive_size": 39198360,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.108/ShowDigitalAdmin-0.1.108-macOS-arm64.zip",
+  "release_notes": "Twilight-only rows read 'Twilight \u2014 kept in Twilight/, nothing sent'.",
+  "sha256": "5aafaaa19ca12f84c839c3d64f4e4f94d6c6d03e7f2f3d0265d1cf0bc46f08c8",
+  "version": "0.1.108"
 }

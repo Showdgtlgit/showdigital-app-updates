@@ -1,7 +1,7 @@
 {
-  "archive_size": 152787583,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.65/ShowDigitalAssociate-0.1.65-macOS-arm64.zip",
-  "release_notes": "Shared modules follow Admin 0.1.105: Stop is acknowledged on the delivery card, a malformed coverage line is ignored, and the move journal tracks repeat moves.",
-  "sha256": "1774cb760335302bda470a335ec415c7a10121d413903eb31ae2bfbb9602bd25",
-  "version": "0.1.65"
+  "archive_size": 152806721,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.66/ShowDigitalAssociate-0.1.66-macOS-arm64.zip",
+  "release_notes": "Imports follow the open work day: a late import after midnight or before Start still belongs to the day it was shot, and an earlier day still open never takes today's frames. No 'another card?' question for a shoot that has not started yet.",
+  "sha256": "3ba5279acaecdd388d7575a9972bf49e495fdfa07099152658e4f1293d816d0e",
+  "version": "0.1.66"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39185961,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.104/ShowDigitalAdmin-0.1.104-macOS-arm64.zip",
-  "release_notes": "Import asks for a missing card (Is there another card?); a second card at the same mount is its own card and the Import pill stays; a failed sort says why (disk space in numbers) with Show log; the delivery bar moves as files convert; a reel product beside a highlight product splits like Signature.",
-  "sha256": "70c23f34ad08bd7e613336a4776af1ff6cf112ac29005947a015ba207296cb10",
-  "version": "0.1.104"
+  "archive_size": 39198153,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.105/ShowDigitalAdmin-0.1.105-macOS-arm64.zip",
+  "release_notes": "Debug pass: a split day's afternoon order is converted before it is sent; Start warns before resetting over unsent work and never resets twice; review keys only act on the group on screen, undo is saved, and moved groups follow their files; Stop uploads is acknowledged and Force stop arms after 4 s; a failed import no longer reads as imported; an overnight session rolls onto the new day; Sort always waits for Next; an Undo on Team pay comes back to this Mac.",
+  "sha256": "6a2b419080eede4e84e9310aa060424199cd57410b0c68a01677e26096da6fd8",
+  "version": "0.1.105"
 }

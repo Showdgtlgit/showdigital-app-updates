@@ -1,7 +1,7 @@
 {
-  "archive_size": 152766761,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.63/ShowDigitalAssociate-0.1.63-macOS-arm64.zip",
-  "release_notes": "Morning setup is near-instant: it starts by itself when the app opens (Live), waits for the internet first, and opens Import the moment the workspace reset lands while today's folders finish behind it. Sort waits for setup to finish. If a newer version is out, the app waits on the home screen and Start offers the update first.",
-  "sha256": "59764a95c24ef860ffd814ad830a4f7f7339abfda456fb25d86571bd03dbce5f",
-  "version": "0.1.63"
+  "archive_size": 152786303,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.64/ShowDigitalAssociate-0.1.64-macOS-arm64.zip",
+  "release_notes": "Import asks for a missing card (Is there another card?); a second card at the same mount is its own card and the Import pill stays; a failed sort says why (disk space in numbers) with Show log; the delivery bar moves as files convert; a reel product beside a highlight product splits like Signature.",
+  "sha256": "7b3af07e110e5061708fbf6c3be41f93dd4c4c0ad1894d5eb9234c32f35f47a8",
+  "version": "0.1.64"
 }

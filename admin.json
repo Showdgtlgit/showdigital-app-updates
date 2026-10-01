@@ -1,7 +1,7 @@
 {
-  "archive_size": 39199796,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.110/ShowDigitalAdmin-0.1.110-macOS-arm64.zip",
-  "release_notes": "A twilight imported the next morning before Start still belongs to the evening it was shot.",
-  "sha256": "5538964abacb06b03e0f8110b059d00b5a611dfe168b8e5affe5cb7eae401fff",
-  "version": "0.1.110"
+  "archive_size": 39201316,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.111/ShowDigitalAdmin-0.1.111-macOS-arm64.zip",
+  "release_notes": "Delivery: Download all when more than one video is back; a project that came back without its video is downloaded and the card says the video is missing.",
+  "sha256": "8fa2db92ed9fbcdb26710871b94006224fc203adf413872b2387be37bf9c25e5",
+  "version": "0.1.111"
 }

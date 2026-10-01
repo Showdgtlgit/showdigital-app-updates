@@ -1,7 +1,7 @@
 {
-  "archive_size": 39198360,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.108/ShowDigitalAdmin-0.1.108-macOS-arm64.zip",
-  "release_notes": "Twilight-only rows read 'Twilight \u2014 kept in Twilight/, nothing sent'.",
-  "sha256": "5aafaaa19ca12f84c839c3d64f4e4f94d6c6d03e7f2f3d0265d1cf0bc46f08c8",
-  "version": "0.1.108"
+  "archive_size": 39199520,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.109/ShowDigitalAdmin-0.1.109-macOS-arm64.zip",
+  "release_notes": "After midnight on a day that was never reset, a late twilight import still counts that evening's frames, the split-day sort narrows to the new files, and a relaunch resumes the unfinished day.",
+  "sha256": "8d16d7b7cad6f70fbff0797b742318f464233b3acb4ee67995f2e66c7be536c8",
+  "version": "0.1.109"
 }

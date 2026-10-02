@@ -1,7 +1,7 @@
 {
-  "archive_size": 39203004,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.114/ShowDigitalAdmin-0.1.114-macOS-arm64.zip",
-  "release_notes": "Delivery: Mark checked removed \u2014 Aryeo already marks a video delivered; status circles stay smooth.",
-  "sha256": "5d088e03b11a8703bc5cffc1bf3006b8e6702f3d03ef5114b89ff4fe8a20b2bd",
-  "version": "0.1.114"
+  "archive_size": 39205255,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.115/ShowDigitalAdmin-0.1.115-macOS-arm64.zip",
+  "release_notes": "Archive tile: one press backs up the month \u2014 scan, clean, NAS upload, check and release in one Terminal run. A stopped backup offers Resume.",
+  "sha256": "38b5a41147c7c5c95e9736766bb66b430a9d549ed932e961adc79863e218b0b5",
+  "version": "0.1.115"
 }

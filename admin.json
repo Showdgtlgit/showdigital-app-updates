@@ -1,7 +1,7 @@
 {
-  "archive_size": 39202153,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.113/ShowDigitalAdmin-0.1.113-macOS-arm64.zip",
-  "release_notes": "Delivery: Mark checked on a downloaded video's card (Uncheck once checked); status circles drawn smooth.",
-  "sha256": "407e3ec6f5266edcc400e26b8604ea726c3c5ceb19eb8d4633ec20497071cd36",
-  "version": "0.1.113"
+  "archive_size": 39203004,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.114/ShowDigitalAdmin-0.1.114-macOS-arm64.zip",
+  "release_notes": "Delivery: Mark checked removed \u2014 Aryeo already marks a video delivered; status circles stay smooth.",
+  "sha256": "5d088e03b11a8703bc5cffc1bf3006b8e6702f3d03ef5114b89ff4fe8a20b2bd",
+  "version": "0.1.114"
 }

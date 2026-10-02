@@ -1,7 +1,7 @@
 {
-  "archive_size": 152808849,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.67/ShowDigitalAssociate-0.1.67-macOS-arm64.zip",
-  "release_notes": "Card detection after midnight on an unreset day counts that evening's frames, so the card imports by itself.",
-  "sha256": "a8fd37caac7ff9cdadf649aedc59772d6051ef29f8eedca5a7a83627bdff0425",
-  "version": "0.1.67"
+  "archive_size": 152811544,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.68/ShowDigitalAssociate-0.1.68-macOS-arm64.zip",
+  "release_notes": "Compress only reads as compressing; fly-then-walk: a mid-run drone flight starts the next house on a shared street.",
+  "sha256": "919e06112bc417bf0eae1febb0f62298835f1f7a5afb720aad005448eb1c9be4",
+  "version": "0.1.68"
 }

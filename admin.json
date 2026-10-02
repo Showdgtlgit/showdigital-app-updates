@@ -1,7 +1,7 @@
 {
-  "archive_size": 39201743,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.112/ShowDigitalAdmin-0.1.112-macOS-arm64.zip",
-  "release_notes": "Compress only reads as compressing: no Uploaded count or upload line, Stop compressing.",
-  "sha256": "220b4fdda7a8336ea9b099425459f3bbedb799c301c1b1ef4caea2084dcc9e58",
-  "version": "0.1.112"
+  "archive_size": 39202153,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.113/ShowDigitalAdmin-0.1.113-macOS-arm64.zip",
+  "release_notes": "Delivery: Mark checked on a downloaded video's card (Uncheck once checked); status circles drawn smooth.",
+  "sha256": "407e3ec6f5266edcc400e26b8604ea726c3c5ceb19eb8d4633ec20497071cd36",
+  "version": "0.1.113"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39203335,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.119/ShowDigitalAdmin-0.1.119-macOS-arm64.zip",
-  "release_notes": "Delivery cards: buttons in a row under the order's details.",
-  "sha256": "2d2608116072696692f7e999bf8e1a326e4a313263d389fe42e76ce8a6917e01",
-  "version": "0.1.119"
+  "archive_size": 39227634,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.120/ShowDigitalAdmin-0.1.120-macOS-arm64.zip",
+  "release_notes": "Archive screen: the month close runs in the app like Sort \u2014 progress bar, houses in flight, finish time, approve the clean-up in the app, Stop safely, Show details. No Terminal.",
+  "sha256": "df937af1d40afeaf6a0572a91bba0b7597bd89158390eaa5b3629dbdffd8c08e",
+  "version": "0.1.120"
 }

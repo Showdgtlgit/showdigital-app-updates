@@ -1,7 +1,7 @@
 {
-  "archive_size": 39211604,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.117/ShowDigitalAdmin-0.1.117-macOS-arm64.zip",
-  "release_notes": "Delivery cards: app icons in grayscale.",
-  "sha256": "824a13b8ead873cad4ee029abafd8559161b63d91b1da60aa016f78a4d036b59",
-  "version": "0.1.117"
+  "archive_size": 39205396,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.118/ShowDigitalAdmin-0.1.118-macOS-arm64.zip",
+  "release_notes": "Delivery cards: actions are buttons (no icons).",
+  "sha256": "26dce92482ddf9a0eb9afdd5c9de46b12cfb892be8265055b868ac7c74266a56",
+  "version": "0.1.118"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39211013,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.116/ShowDigitalAdmin-0.1.116-macOS-arm64.zip",
-  "release_notes": "Delivery cards: Aryeo, QuickTime, Resolve and Finder icons on their links; Show in Finder opens the address folder.",
-  "sha256": "997ccdc884a5bd299e3b9dd46554f12ae555bcde41d95d8ca80a849fe11665bb",
-  "version": "0.1.116"
+  "archive_size": 39211604,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.117/ShowDigitalAdmin-0.1.117-macOS-arm64.zip",
+  "release_notes": "Delivery cards: app icons in grayscale.",
+  "sha256": "824a13b8ead873cad4ee029abafd8559161b63d91b1da60aa016f78a4d036b59",
+  "version": "0.1.117"
 }

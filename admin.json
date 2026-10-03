@@ -1,7 +1,7 @@
 {
-  "archive_size": 39205255,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.115/ShowDigitalAdmin-0.1.115-macOS-arm64.zip",
-  "release_notes": "Archive tile: one press backs up the month \u2014 scan, clean, NAS upload, check and release in one Terminal run. A stopped backup offers Resume.",
-  "sha256": "38b5a41147c7c5c95e9736766bb66b430a9d549ed932e961adc79863e218b0b5",
-  "version": "0.1.115"
+  "archive_size": 39211013,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.116/ShowDigitalAdmin-0.1.116-macOS-arm64.zip",
+  "release_notes": "Delivery cards: Aryeo, QuickTime, Resolve and Finder icons on their links; Show in Finder opens the address folder.",
+  "sha256": "997ccdc884a5bd299e3b9dd46554f12ae555bcde41d95d8ca80a849fe11665bb",
+  "version": "0.1.116"
 }

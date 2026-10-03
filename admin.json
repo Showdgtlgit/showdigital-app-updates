@@ -1,7 +1,7 @@
 {
-  "archive_size": 39205396,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.118/ShowDigitalAdmin-0.1.118-macOS-arm64.zip",
-  "release_notes": "Delivery cards: actions are buttons (no icons).",
-  "sha256": "26dce92482ddf9a0eb9afdd5c9de46b12cfb892be8265055b868ac7c74266a56",
-  "version": "0.1.118"
+  "archive_size": 39203335,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.119/ShowDigitalAdmin-0.1.119-macOS-arm64.zip",
+  "release_notes": "Delivery cards: buttons in a row under the order's details.",
+  "sha256": "2d2608116072696692f7e999bf8e1a326e4a313263d389fe42e76ce8a6917e01",
+  "version": "0.1.119"
 }

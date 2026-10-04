@@ -1,7 +1,7 @@
 {
-  "archive_size": 39228174,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.121/ShowDigitalAdmin-0.1.121-macOS-arm64.zip",
-  "release_notes": "Pay email: videos already paid before the month close, or edited by Alex, no longer show under Not in the total yet.",
-  "sha256": "ed8e057cd116724de18904a7b911c1933cdeb2ad291d648777fa68fb297f0908",
-  "version": "0.1.121"
+  "archive_size": 39230801,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.122/ShowDigitalAdmin-0.1.122-macOS-arm64.zip",
+  "release_notes": "Email Derrick opens in the work Chrome window (alex@showdgtl.com).",
+  "sha256": "b1cf483759a42d58621dafa2d89d151fd9fe7b4e9a9abba93e8b7c91f51b4736",
+  "version": "0.1.122"
 }

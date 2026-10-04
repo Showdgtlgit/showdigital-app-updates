@@ -1,7 +1,7 @@
 {
-  "archive_size": 39228470,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.123/ShowDigitalAdmin-0.1.123-macOS-arm64.zip",
-  "release_notes": "Team pay: Gloria's card has Email the pay summary \u2014 a filled-in Gmail draft from alex@, the History page's text.",
-  "sha256": "6339d3c75c3a376b5f5b73d5829f6b404ad7f67cc346748dbb21d301d716807d",
-  "version": "0.1.123"
+  "archive_size": 39231773,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.124/ShowDigitalAdmin-0.1.124-macOS-arm64.zip",
+  "release_notes": "Home in three sections (Today, Clients, Business); Delivery and Team pay are separate tiles; Welcome back; every screen opens at its top.",
+  "sha256": "21f06e458fe7e060b05c50b519fc9dffebb4294aa3c6b7fa9676bc913a0603a6",
+  "version": "0.1.124"
 }

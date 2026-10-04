@@ -1,7 +1,7 @@
 {
-  "archive_size": 39230801,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.122/ShowDigitalAdmin-0.1.122-macOS-arm64.zip",
-  "release_notes": "Email Derrick opens in the work Chrome window (alex@showdgtl.com).",
-  "sha256": "b1cf483759a42d58621dafa2d89d151fd9fe7b4e9a9abba93e8b7c91f51b4736",
-  "version": "0.1.122"
+  "archive_size": 39228470,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.123/ShowDigitalAdmin-0.1.123-macOS-arm64.zip",
+  "release_notes": "Team pay: Gloria's card has Email the pay summary \u2014 a filled-in Gmail draft from alex@, the History page's text.",
+  "sha256": "6339d3c75c3a376b5f5b73d5829f6b404ad7f67cc346748dbb21d301d716807d",
+  "version": "0.1.123"
 }

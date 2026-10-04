@@ -1,7 +1,7 @@
 {
-  "archive_size": 39231773,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.124/ShowDigitalAdmin-0.1.124-macOS-arm64.zip",
-  "release_notes": "Home in three sections (Today, Clients, Business); Delivery and Team pay are separate tiles; Welcome back; every screen opens at its top.",
-  "sha256": "21f06e458fe7e060b05c50b519fc9dffebb4294aa3c6b7fa9676bc913a0603a6",
-  "version": "0.1.124"
+  "archive_size": 39233599,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.125/ShowDigitalAdmin-0.1.125-macOS-arm64.zip",
+  "release_notes": "Home fits the smallest window without scrolling: tighter spacing when the window is short; the greeting steps aside only if the day still doesn't fit.",
+  "sha256": "1ec65f08da30d5135f8e8faeaab5a8bdec6d6469b34134e585208eb929cae0cb",
+  "version": "0.1.125"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39227634,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.120/ShowDigitalAdmin-0.1.120-macOS-arm64.zip",
-  "release_notes": "Archive screen: the month close runs in the app like Sort \u2014 progress bar, houses in flight, finish time, approve the clean-up in the app, Stop safely, Show details. No Terminal.",
-  "sha256": "df937af1d40afeaf6a0572a91bba0b7597bd89158390eaa5b3629dbdffd8c08e",
-  "version": "0.1.120"
+  "archive_size": 39228174,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.121/ShowDigitalAdmin-0.1.121-macOS-arm64.zip",
+  "release_notes": "Pay email: videos already paid before the month close, or edited by Alex, no longer show under Not in the total yet.",
+  "sha256": "ed8e057cd116724de18904a7b911c1933cdeb2ad291d648777fa68fb297f0908",
+  "version": "0.1.121"
 }

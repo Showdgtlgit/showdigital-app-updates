@@ -1,7 +1,7 @@
 {
-  "archive_size": 39233599,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.125/ShowDigitalAdmin-0.1.125-macOS-arm64.zip",
-  "release_notes": "Home fits the smallest window without scrolling: tighter spacing when the window is short; the greeting steps aside only if the day still doesn't fit.",
-  "sha256": "1ec65f08da30d5135f8e8faeaab5a8bdec6d6469b34134e585208eb929cae0cb",
-  "version": "0.1.125"
+  "archive_size": 39233457,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.126/ShowDigitalAdmin-0.1.126-macOS-arm64.zip",
+  "release_notes": "Delivery: Open in Aryeo opens in the alex@ Chrome window; photos scheduled in Aryeo show a green ring.",
+  "sha256": "dd5e526d918be33996499325fac9605a1135c98b0362f5fb6d67547c86987b64",
+  "version": "0.1.126"
 }

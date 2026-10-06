@@ -1,7 +1,7 @@
 {
-  "archive_size": 39233457,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.126/ShowDigitalAdmin-0.1.126-macOS-arm64.zip",
-  "release_notes": "Delivery: Open in Aryeo opens in the alex@ Chrome window; photos scheduled in Aryeo show a green ring.",
-  "sha256": "dd5e526d918be33996499325fac9605a1135c98b0362f5fb6d67547c86987b64",
-  "version": "0.1.126"
+  "archive_size": 39236623,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.127/ShowDigitalAdmin-0.1.127-macOS-arm64.zip",
+  "release_notes": "Team pay is now Team, with an Hours section: each employee's weekly hours ledger and the overtime premium to enter in Gusto.",
+  "sha256": "80226f9798cfc44d52e64ea46cb88c1c83698304042141ce7acecd98c849d1a6",
+  "version": "0.1.127"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39236623,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.127/ShowDigitalAdmin-0.1.127-macOS-arm64.zip",
-  "release_notes": "Team pay is now Team, with an Hours section: each employee's weekly hours ledger and the overtime premium to enter in Gusto.",
-  "sha256": "80226f9798cfc44d52e64ea46cb88c1c83698304042141ce7acecd98c849d1a6",
-  "version": "0.1.127"
+  "archive_size": 39238617,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.128/ShowDigitalAdmin-0.1.128-macOS-arm64.zip",
+  "release_notes": "Setup starts by itself when opened before noon (once a day); Delivery marks photos uploaded but not scheduled as Ready; Team shows Shannon's mileage and links the hours & mileage sheet.",
+  "sha256": "b649b8d647e68c123e24767b0f0a36f68f7d3bba7367e665c443b234881c9274",
+  "version": "0.1.128"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39238617,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.128/ShowDigitalAdmin-0.1.128-macOS-arm64.zip",
-  "release_notes": "Setup starts by itself when opened before noon (once a day); Delivery marks photos uploaded but not scheduled as Ready; Team shows Shannon's mileage and links the hours & mileage sheet.",
-  "sha256": "b649b8d647e68c123e24767b0f0a36f68f7d3bba7367e665c443b234881c9274",
-  "version": "0.1.128"
+  "archive_size": 39242175,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.129/ShowDigitalAdmin-0.1.129-macOS-arm64.zip",
+  "release_notes": "Video-only cards tick Camera (drone clips tick Drone); setup shows it is retrying when offline and retries a Sheets refusal by itself.",
+  "sha256": "dcec8a3c8733d3145c0d83f323e3de1d0089695a45b9990937d3995caee97f44",
+  "version": "0.1.129"
 }

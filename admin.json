@@ -1,7 +1,7 @@
 {
-  "archive_size": 39249290,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.131/ShowDigitalAdmin-0.1.131-macOS-arm64.zip",
-  "release_notes": "Team: Shannon's hours one week at a time (\u2039 \u203a picker), every day open with jobs, drives and an Aryeo link per job.",
-  "sha256": "5a215ca8cd0133b0bc62aeeb6a1930275cd71946f9974e5f9495445a834bb4c3",
-  "version": "0.1.131"
+  "archive_size": 39258177,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.132/ShowDigitalAdmin-0.1.132-macOS-arm64.zip",
+  "release_notes": "Team: Shannon's week as a calendar (Calendar | List): counted jobs, jobs not counted, drives, booked slots; click a block for details and Aryeo.",
+  "sha256": "fa66bc790f009a49f4390ad3c8c11998be462f61c7c107aabe38f25590835b10",
+  "version": "0.1.132"
 }

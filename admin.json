@@ -1,7 +1,7 @@
 {
-  "archive_size": 39258177,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.132/ShowDigitalAdmin-0.1.132-macOS-arm64.zip",
-  "release_notes": "Team: Shannon's week as a calendar (Calendar | List): counted jobs, jobs not counted, drives, booked slots; click a block for details and Aryeo.",
-  "sha256": "fa66bc790f009a49f4390ad3c8c11998be462f61c7c107aabe38f25590835b10",
-  "version": "0.1.132"
+  "archive_size": 39261058,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.133/ShowDigitalAdmin-0.1.133-macOS-arm64.zip",
+  "release_notes": "Team: Show email beside each pay email link; Derrick's pay email now also on the dashboard.",
+  "sha256": "83f4d0545c9993b0457e4e02abd3d9c1ef0af1e3df76ee550f18825b3ed831c7",
+  "version": "0.1.133"
 }

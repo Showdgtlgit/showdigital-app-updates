@@ -1,7 +1,7 @@
 {
-  "archive_size": 39261058,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.133/ShowDigitalAdmin-0.1.133-macOS-arm64.zip",
-  "release_notes": "Team: Show email beside each pay email link; Derrick's pay email now also on the dashboard.",
-  "sha256": "83f4d0545c9993b0457e4e02abd3d9c1ef0af1e3df76ee550f18825b3ed831c7",
-  "version": "0.1.133"
+  "archive_size": 39260195,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.134/ShowDigitalAdmin-0.1.134-macOS-arm64.zip",
+  "release_notes": "Team: simple day list, pay period totals (hours, miles x IRS rate, overtime, Gusto status); no booked-slot outlines.",
+  "sha256": "82124252329b12db3b09e68db015d03c686ed6185f8a2b7bf39ae935c302afa3",
+  "version": "0.1.134"
 }

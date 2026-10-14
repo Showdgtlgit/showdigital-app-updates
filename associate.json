@@ -1,7 +1,7 @@
 {
-  "archive_size": 152816113,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.69/ShowDigitalAssociate-0.1.69-macOS-arm64.zip",
-  "release_notes": "Video-only cards are the camera card; drone clips count as drone.",
-  "sha256": "d950b65b0ea214415310f7ec3093e6df7ea7a3557d67ccf91633f39876b86094",
-  "version": "0.1.69"
+  "archive_size": 152818122,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.70/ShowDigitalAssociate-0.1.70-macOS-arm64.zip",
+  "release_notes": "Each associate Mac can carry its own name and workspace (set once at laptop setup).",
+  "sha256": "042b3cd1574b120f983def5e1838cf59470b52f4b4c992d98847e2c55997ca17",
+  "version": "0.1.70"
 }

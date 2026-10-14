@@ -1,7 +1,7 @@
 {
-  "archive_size": 39266521,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.136/ShowDigitalAdmin-0.1.136-macOS-arm64.zip",
-  "release_notes": "Team: Email Shannon her week + Show email on finished weeks.",
-  "sha256": "20009c9fbe56a5ca13dec601302925c7bcecddb61b9ab87241c1201fe24bd059",
-  "version": "0.1.136"
+  "archive_size": 39268615,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.137/ShowDigitalAdmin-0.1.137-macOS-arm64.zip",
+  "release_notes": "Morning setup runs behind Home \u2014 Start shows it wherever it has got to. Mileage payday dropdown opens cleanly under its box.",
+  "sha256": "96e4d95c5412ef6497a81133476a19ac779144dd93041500800e9c0e56cba5ec",
+  "version": "0.1.137"
 }

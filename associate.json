@@ -1,7 +1,7 @@
 {
-  "archive_size": 152818122,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.70/ShowDigitalAssociate-0.1.70-macOS-arm64.zip",
-  "release_notes": "Each associate Mac can carry its own name and workspace (set once at laptop setup).",
-  "sha256": "042b3cd1574b120f983def5e1838cf59470b52f4b4c992d98847e2c55997ca17",
-  "version": "0.1.70"
+  "archive_size": 152821759,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.71/ShowDigitalAssociate-0.1.71-macOS-arm64.zip",
+  "release_notes": "Uploads use the same file names as the Admin app, and reel / highlight / Signature videos split the same way.",
+  "sha256": "c1e2a0b5207eb558690431fe212d71dcfce40ecc24269d85088c60659aed59d3",
+  "version": "0.1.71"
 }

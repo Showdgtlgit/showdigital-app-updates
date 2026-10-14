@@ -1,7 +1,7 @@
 {
-  "archive_size": 39260195,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.134/ShowDigitalAdmin-0.1.134-macOS-arm64.zip",
-  "release_notes": "Team: simple day list, pay period totals (hours, miles x IRS rate, overtime, Gusto status); no booked-slot outlines.",
-  "sha256": "82124252329b12db3b09e68db015d03c686ed6185f8a2b7bf39ae935c302afa3",
-  "version": "0.1.134"
+  "archive_size": 39265878,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.135/ShowDigitalAdmin-0.1.135-macOS-arm64.zip",
+  "release_notes": "Team: Shannon's mileage paid or not paid by week; unpaid accrues onto the next payroll (Mark paid / Undo).",
+  "sha256": "4a46083a97a7638705b20586dbe31ef54b7ac650ff7e85210cfe50f69191cf46",
+  "version": "0.1.135"
 }

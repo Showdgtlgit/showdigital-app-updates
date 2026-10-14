@@ -1,7 +1,7 @@
 {
-  "archive_size": 152821759,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.71/ShowDigitalAssociate-0.1.71-macOS-arm64.zip",
-  "release_notes": "Uploads use the same file names as the Admin app, and reel / highlight / Signature videos split the same way.",
-  "sha256": "c1e2a0b5207eb558690431fe212d71dcfce40ecc24269d85088c60659aed59d3",
-  "version": "0.1.71"
+  "archive_size": 152822063,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.72/ShowDigitalAssociate-0.1.72-macOS-arm64.zip",
+  "release_notes": "Days with video orders can finish: one photo and one video package per order.",
+  "sha256": "76281170578d5c433f1a2b429742fafc80b257a47a353d3a75772cf1449b7884",
+  "version": "0.1.72"
 }

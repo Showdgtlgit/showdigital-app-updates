@@ -1,7 +1,7 @@
 {
-  "archive_size": 39265878,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.135/ShowDigitalAdmin-0.1.135-macOS-arm64.zip",
-  "release_notes": "Team: Shannon's mileage paid or not paid by week; unpaid accrues onto the next payroll (Mark paid / Undo).",
-  "sha256": "4a46083a97a7638705b20586dbe31ef54b7ac650ff7e85210cfe50f69191cf46",
-  "version": "0.1.135"
+  "archive_size": 39266521,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.136/ShowDigitalAdmin-0.1.136-macOS-arm64.zip",
+  "release_notes": "Team: Email Shannon her week + Show email on finished weeks.",
+  "sha256": "20009c9fbe56a5ca13dec601302925c7bcecddb61b9ab87241c1201fe24bd059",
+  "version": "0.1.136"
 }

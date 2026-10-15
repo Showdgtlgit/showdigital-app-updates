@@ -1,7 +1,7 @@
 {
-  "archive_size": 39320777,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.141/ShowDigitalAdmin-0.1.141-macOS-arm64.zip",
-  "release_notes": "Second camera card ticks an Additional row; house-card review fixes (undo after switching screens, filed cards locked, error stays, better #2 house); Practice replay survives the next morning's reset.",
-  "sha256": "cf405f261d45f056847cd782bd9b8b50df9d44763d1da6aba143a493eef47658",
-  "version": "0.1.141"
+  "archive_size": 39321881,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.142/ShowDigitalAdmin-0.1.142-macOS-arm64.zip",
+  "release_notes": "A group the sorter proved is never asked just because its reason text contains 'review' or 'low' (14 Oct: 2 needless asks).",
+  "sha256": "6d8be118b9e76e258e6d9787617547878829e7167af9ee3a6b4e34142b1072aa",
+  "version": "0.1.142"
 }

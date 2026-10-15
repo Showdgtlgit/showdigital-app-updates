@@ -1,7 +1,7 @@
 {
-  "archive_size": 39316103,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.139/ShowDigitalAdmin-0.1.139-macOS-arm64.zip",
-  "release_notes": "Photo review: new \"Which house?\" card screen behind a switch (Try house cards / Use the old review); the old review stays the default.",
-  "sha256": "4d299189b492385372485a4f2f54b936828c3a35cfeab48638c6bf96ad0473e6",
-  "version": "0.1.139"
+  "archive_size": 39319173,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.140/ShowDigitalAdmin-0.1.140-macOS-arm64.zip",
+  "release_notes": "Practice replay mimics the day exactly: its own groups on the original photos, so locks and auto-confirms behave as they did Live. If the originals are gone it shows the delivered photos and says so.",
+  "sha256": "5a40b38b25700ea3be1b8e75606d5023b80ea4cd3126cc717845b5b1c3ede510",
+  "version": "0.1.140"
 }

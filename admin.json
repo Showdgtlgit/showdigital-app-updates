@@ -1,7 +1,7 @@
 {
-  "archive_size": 39322615,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.143/ShowDigitalAdmin-0.1.143-macOS-arm64.zip",
-  "release_notes": "Review audit: a placed set is never read as 'no address'; double-click Yes / double-Enter on the chooser record once; one entry per order folder in the chooser; a failed ledger write after a move is shown.",
-  "sha256": "687a1350470489f245e19430497d21ce492bf3da30242cdbd19680cd362bda4a",
-  "version": "0.1.143"
+  "archive_size": 39358904,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.144/ShowDigitalAdmin-0.1.144-macOS-arm64.zip",
+  "release_notes": "The street line: one strip per shared street before the per-set asks, with the flights toggle \u2014 behind 'Try the street line' on the review screen (off by default).",
+  "sha256": "f3eb9d51475eadd8a7cb4640662b414017ae4c8b8f9e5945c80bb56d9259ba4a",
+  "version": "0.1.144"
 }

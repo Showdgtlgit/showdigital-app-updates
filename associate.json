@@ -1,7 +1,7 @@
 {
-  "archive_size": 152880119,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.75/ShowDigitalAssociate-0.1.75-macOS-arm64.zip",
-  "release_notes": "Photo review: new \"Which house?\" card screen behind a switch (Try house cards / Use the old review); the old review stays the default. Review ledger lines now name their group.",
-  "sha256": "32271f0d89809497e9022f95a14a1d8ddcf0372f89e53973b5fa4f587a6fdf1b",
-  "version": "0.1.75"
+  "archive_size": 152888101,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.76/ShowDigitalAssociate-0.1.76-macOS-arm64.zip",
+  "release_notes": "Second camera card ticks an Additional row; house cards name the sorter's own second choice; an undo is written to the ledger; sorter never suggests a house the camera was kilometres from.",
+  "sha256": "f83f842ce84d5e3f0d587734011f0942b0343113a1ab9517fa1b1c26d6bee34f",
+  "version": "0.1.76"
 }

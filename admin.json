@@ -1,7 +1,7 @@
 {
-  "archive_size": 39269536,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.138/ShowDigitalAdmin-0.1.138-macOS-arm64.zip",
-  "release_notes": "Every dropdown uses one class that opens its list under the box. No visible change.",
-  "sha256": "3aed82f1ae60f345988c082c79bc98a8f1d0b5b16efdbcdc6e71b66f41e7bbca",
-  "version": "0.1.138"
+  "archive_size": 39316103,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.139/ShowDigitalAdmin-0.1.139-macOS-arm64.zip",
+  "release_notes": "Photo review: new \"Which house?\" card screen behind a switch (Try house cards / Use the old review); the old review stays the default.",
+  "sha256": "4d299189b492385372485a4f2f54b936828c3a35cfeab48638c6bf96ad0473e6",
+  "version": "0.1.139"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39319173,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.140/ShowDigitalAdmin-0.1.140-macOS-arm64.zip",
-  "release_notes": "Practice replay mimics the day exactly: its own groups on the original photos, so locks and auto-confirms behave as they did Live. If the originals are gone it shows the delivered photos and says so.",
-  "sha256": "5a40b38b25700ea3be1b8e75606d5023b80ea4cd3126cc717845b5b1c3ede510",
-  "version": "0.1.140"
+  "archive_size": 39320777,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.141/ShowDigitalAdmin-0.1.141-macOS-arm64.zip",
+  "release_notes": "Second camera card ticks an Additional row; house-card review fixes (undo after switching screens, filed cards locked, error stays, better #2 house); Practice replay survives the next morning's reset.",
+  "sha256": "cf405f261d45f056847cd782bd9b8b50df9d44763d1da6aba143a493eef47658",
+  "version": "0.1.141"
 }

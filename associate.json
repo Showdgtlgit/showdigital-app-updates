@@ -1,7 +1,7 @@
 {
-  "archive_size": 152826942,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.74/ShowDigitalAssociate-0.1.74-macOS-arm64.zip",
-  "release_notes": "Talks to Show Digital through Dropbox only \u2014 uploads work even when the office Mac is off.",
-  "sha256": "53376ecb3e01a33409317d0040788201552a5bc35bca909fcbc5bc69a775132a",
-  "version": "0.1.74"
+  "archive_size": 152880119,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.75/ShowDigitalAssociate-0.1.75-macOS-arm64.zip",
+  "release_notes": "Photo review: new \"Which house?\" card screen behind a switch (Try house cards / Use the old review); the old review stays the default. Review ledger lines now name their group.",
+  "sha256": "32271f0d89809497e9022f95a14a1d8ddcf0372f89e53973b5fa4f587a6fdf1b",
+  "version": "0.1.75"
 }

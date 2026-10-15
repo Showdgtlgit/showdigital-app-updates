@@ -1,7 +1,7 @@
 {
-  "archive_size": 39321881,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.142/ShowDigitalAdmin-0.1.142-macOS-arm64.zip",
-  "release_notes": "A group the sorter proved is never asked just because its reason text contains 'review' or 'low' (14 Oct: 2 needless asks).",
-  "sha256": "6d8be118b9e76e258e6d9787617547878829e7167af9ee3a6b4e34142b1072aa",
-  "version": "0.1.142"
+  "archive_size": 39322615,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.143/ShowDigitalAdmin-0.1.143-macOS-arm64.zip",
+  "release_notes": "Review audit: a placed set is never read as 'no address'; double-click Yes / double-Enter on the chooser record once; one entry per order folder in the chooser; a failed ledger write after a move is shown.",
+  "sha256": "687a1350470489f245e19430497d21ce492bf3da30242cdbd19680cd362bda4a",
+  "version": "0.1.143"
 }

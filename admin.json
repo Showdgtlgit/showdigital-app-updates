@@ -1,7 +1,7 @@
 {
-  "archive_size": 38885727,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.148/ShowDigitalAdmin-0.1.148-macOS-arm64.zip",
-  "release_notes": "Delivery: each column says where it stands under its heading; the top keeps only the Updated line.",
-  "sha256": "59cd20077a77488198be2e1991c0b09c2fbd972123e6ff810390224175a18cc8",
-  "version": "0.1.148"
+  "archive_size": 38889133,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.149/ShowDigitalAdmin-0.1.149-macOS-arm64.zip",
+  "release_notes": "Team: Shannon's week is her gigs \u2014 hours worked, mileage owed, each gig's time on site and her-car miles; same as the web dashboard.",
+  "sha256": "a1acaf834abd627cf34d10849a1f7ed4ff84e45cf8076932f975a1a1121ff3d2",
+  "version": "0.1.149"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 38885023,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.146/ShowDigitalAdmin-0.1.146-macOS-arm64.zip",
-  "release_notes": "Delivery is two columns: To deliver on the left, Shooting today on the right, the same as the web dashboard.",
-  "sha256": "e5b890d39da283eed67facc8054d703a3116bc72e9f6b8d4a7472750d686286d",
-  "version": "0.1.146"
+  "archive_size": 38886601,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.147/ShowDigitalAdmin-0.1.147-macOS-arm64.zip",
+  "release_notes": "Delivery: the top says where delivery stands and where today's shoots stand, matching the web dashboard.",
+  "sha256": "53e56673f932313dfea48cd65004dc636e8a047208f5b34886451b77a9350914",
+  "version": "0.1.147"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 152888101,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.76/ShowDigitalAssociate-0.1.76-macOS-arm64.zip",
-  "release_notes": "Second camera card ticks an Additional row; house cards name the sorter's own second choice; an undo is written to the ledger; sorter never suggests a house the camera was kilometres from.",
-  "sha256": "f83f842ce84d5e3f0d587734011f0942b0343113a1ab9517fa1b1c26d6bee34f",
-  "version": "0.1.76"
+  "archive_size": 152890933,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.77/ShowDigitalAssociate-0.1.77-macOS-arm64.zip",
+  "release_notes": "Drone flights over a land listing's own acreage no longer ask for review. Housekeeping: removes an unused sign-in file.",
+  "sha256": "9f8a50673abba2e16c704ca745645775f0fec5d2106256edb21a0730e8ba870a",
+  "version": "0.1.77"
 }

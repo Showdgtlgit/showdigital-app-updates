@@ -1,7 +1,7 @@
 {
-  "archive_size": 38889133,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.149/ShowDigitalAdmin-0.1.149-macOS-arm64.zip",
-  "release_notes": "Team: Shannon's week is her gigs \u2014 hours worked, mileage owed, each gig's time on site and her-car miles; same as the web dashboard.",
-  "sha256": "a1acaf834abd627cf34d10849a1f7ed4ff84e45cf8076932f975a1a1121ff3d2",
-  "version": "0.1.149"
+  "archive_size": 38889445,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.150/ShowDigitalAdmin-0.1.150-macOS-arm64.zip",
+  "release_notes": "Team: Shannon's card shows hours and her-car miles per day and as week totals; times on site behind Show details.",
+  "sha256": "bd0dc07b68553065ec3278830ec66ca4ae05e237d6b9d352ae23482269152e32",
+  "version": "0.1.150"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 38883295,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.145/ShowDigitalAdmin-0.1.145-macOS-arm64.zip",
-  "release_notes": "The street line is on by default; 'Use per-set asks' on the review screen turns it off.",
-  "sha256": "fe816262ef295e6482382d9622db46934b6ebd3d9e19b42cf933f8be99fec74e",
-  "version": "0.1.145"
+  "archive_size": 38885023,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.146/ShowDigitalAdmin-0.1.146-macOS-arm64.zip",
+  "release_notes": "Delivery is two columns: To deliver on the left, Shooting today on the right, the same as the web dashboard.",
+  "sha256": "e5b890d39da283eed67facc8054d703a3116bc72e9f6b8d4a7472750d686286d",
+  "version": "0.1.146"
 }

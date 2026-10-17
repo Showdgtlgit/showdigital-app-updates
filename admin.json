@@ -1,7 +1,7 @@
 {
-  "archive_size": 38936743,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.153/ShowDigitalAdmin-0.1.153-macOS-arm64.zip",
-  "release_notes": "Two tabs, Orders and Team: each order card has an Edit fold with tags, Process, Associate, Show Revenue and notes.",
-  "sha256": "086e92f9c2638622e140348c98df1e68c51df2ac8a9dc660425e03af78cddac5",
-  "version": "0.1.153"
+  "archive_size": 38897411,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.154/ShowDigitalAdmin-0.1.154-macOS-arm64.zip",
+  "release_notes": "Tag changes ask first and Exclude stands alone, as on the web; old Delivery/Team layout code removed.",
+  "sha256": "a7b7613ed0b7603d39590111c8e63f99f6bc02f088f829b9701a44e258a64f9e",
+  "version": "0.1.154"
 }

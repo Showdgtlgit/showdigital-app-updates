@@ -1,7 +1,7 @@
 {
-  "archive_size": 38889445,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.150/ShowDigitalAdmin-0.1.150-macOS-arm64.zip",
-  "release_notes": "Team: Shannon's card shows hours and her-car miles per day and as week totals; times on site behind Show details.",
-  "sha256": "bd0dc07b68553065ec3278830ec66ca4ae05e237d6b9d352ae23482269152e32",
-  "version": "0.1.150"
+  "archive_size": 38926479,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.151/ShowDigitalAdmin-0.1.151-macOS-arm64.zip",
+  "release_notes": "Delivery and Team redesigned (Claude Design v1): Orders | Team tabs, eye and Refresh on the page, search, two columns, new editor, mileage and hours cards.",
+  "sha256": "6cb91a34e56f4aa0648a18392ae6313f69caab864e535818dc55c337de665498",
+  "version": "0.1.151"
 }

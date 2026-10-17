@@ -1,7 +1,7 @@
 {
-  "archive_size": 38926479,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.151/ShowDigitalAdmin-0.1.151-macOS-arm64.zip",
-  "release_notes": "Delivery and Team redesigned (Claude Design v1): Orders | Team tabs, eye and Refresh on the page, search, two columns, new editor, mileage and hours cards.",
-  "sha256": "6cb91a34e56f4aa0648a18392ae6313f69caab864e535818dc55c337de665498",
-  "version": "0.1.151"
+  "archive_size": 38928588,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.152/ShowDigitalAdmin-0.1.152-macOS-arm64.zip",
+  "release_notes": "Delivery: bigger, banded column heads; photos waiting to be scheduled are called out. Team: editors accrue this week (due Monday) with Previous payments; mileage Entered in payroll with one button; Hours as an overtime log. Style tokens fixed.",
+  "sha256": "e6e94da59f49a814a7943ca42559f4f6cf3f3348fab3fd4f297dab842b9b7940",
+  "version": "0.1.152"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 38900502,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.155/ShowDigitalAdmin-0.1.155-macOS-arm64.zip",
-  "release_notes": "Needs you card on top of Orders; a stale-sheet warning; cards repaint right after an edit.",
-  "sha256": "1441213036880f29c610bcc727fdfc761eb5a5e710029e29f5511f408973a30a",
-  "version": "0.1.155"
+  "archive_size": 38907729,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.156/ShowDigitalAdmin-0.1.156-macOS-arm64.zip",
+  "release_notes": "Search shows Coming Up orders to set up ahead; See what Shannon sees on Team.",
+  "sha256": "8dc1799adedb24de8bb170f74b400643823f10b168aff55674615187c0826220",
+  "version": "0.1.156"
 }

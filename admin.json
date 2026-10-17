@@ -1,7 +1,7 @@
 {
-  "archive_size": 38928588,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.152/ShowDigitalAdmin-0.1.152-macOS-arm64.zip",
-  "release_notes": "Delivery: bigger, banded column heads; photos waiting to be scheduled are called out. Team: editors accrue this week (due Monday) with Previous payments; mileage Entered in payroll with one button; Hours as an overtime log. Style tokens fixed.",
-  "sha256": "e6e94da59f49a814a7943ca42559f4f6cf3f3348fab3fd4f297dab842b9b7940",
-  "version": "0.1.152"
+  "archive_size": 38936743,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.153/ShowDigitalAdmin-0.1.153-macOS-arm64.zip",
+  "release_notes": "Two tabs, Orders and Team: each order card has an Edit fold with tags, Process, Associate, Show Revenue and notes.",
+  "sha256": "086e92f9c2638622e140348c98df1e68c51df2ac8a9dc660425e03af78cddac5",
+  "version": "0.1.153"
 }

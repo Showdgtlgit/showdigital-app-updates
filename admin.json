@@ -1,7 +1,7 @@
 {
-  "archive_size": 38897411,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.154/ShowDigitalAdmin-0.1.154-macOS-arm64.zip",
-  "release_notes": "Tag changes ask first and Exclude stands alone, as on the web; old Delivery/Team layout code removed.",
-  "sha256": "a7b7613ed0b7603d39590111c8e63f99f6bc02f088f829b9701a44e258a64f9e",
-  "version": "0.1.154"
+  "archive_size": 38900502,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.155/ShowDigitalAdmin-0.1.155-macOS-arm64.zip",
+  "release_notes": "Needs you card on top of Orders; a stale-sheet warning; cards repaint right after an edit.",
+  "sha256": "1441213036880f29c610bcc727fdfc761eb5a5e710029e29f5511f408973a30a",
+  "version": "0.1.155"
 }

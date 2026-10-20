@@ -1,7 +1,7 @@
 {
-  "archive_size": 152988977,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.79/ShowDigitalAssociate-0.1.79-macOS-arm64.zip",
-  "release_notes": "Compress runs again in the packaged app (engine imports bundled + build smoke); one package row per listing; a finished review stays on the wrap after a reload; Compress & Deliver named consistently; the page column grows with the window.",
-  "sha256": "2476bf8461ece248170a058d7b609fdf93371b04cceacc6945c6be399cb15b15",
-  "version": "0.1.79"
+  "archive_size": 152989601,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.80/ShowDigitalAssociate-0.1.80-macOS-arm64.zip",
+  "release_notes": "Delivery no longer stops at 'photo review is not finished' after Compress when the review was done.",
+  "sha256": "c0433b6d3480efdac254ce0d0f2cc346e7fb18587975e0bc4b7ec6475d085cc7",
+  "version": "0.1.80"
 }

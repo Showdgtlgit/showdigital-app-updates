@@ -1,7 +1,7 @@
 {
-  "archive_size": 152890933,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.77/ShowDigitalAssociate-0.1.77-macOS-arm64.zip",
-  "release_notes": "Drone flights over a land listing's own acreage no longer ask for review. Housekeeping: removes an unused sign-in file.",
-  "sha256": "9f8a50673abba2e16c704ca745645775f0fec5d2106256edb21a0730e8ba870a",
-  "version": "0.1.77"
+  "archive_size": 152939457,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.78/ShowDigitalAssociate-0.1.78-macOS-arm64.zip",
+  "release_notes": "Prepare and Sort read the mini's published schedule (no Google sign-in); the day's phone tracks are pulled before Prepare and Sort.",
+  "sha256": "43a3326fab7a933051202c0671c5c11fff5b6cc6c75e6543bcbb1e7c435a9063",
+  "version": "0.1.78"
 }

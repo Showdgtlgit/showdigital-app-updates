@@ -1,7 +1,7 @@
 {
-  "archive_size": 152939457,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.78/ShowDigitalAssociate-0.1.78-macOS-arm64.zip",
-  "release_notes": "Prepare and Sort read the mini's published schedule (no Google sign-in); the day's phone tracks are pulled before Prepare and Sort.",
-  "sha256": "43a3326fab7a933051202c0671c5c11fff5b6cc6c75e6543bcbb1e7c435a9063",
-  "version": "0.1.78"
+  "archive_size": 152988977,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.79/ShowDigitalAssociate-0.1.79-macOS-arm64.zip",
+  "release_notes": "Compress runs again in the packaged app (engine imports bundled + build smoke); one package row per listing; a finished review stays on the wrap after a reload; Compress & Deliver named consistently; the page column grows with the window.",
+  "sha256": "2476bf8461ece248170a058d7b609fdf93371b04cceacc6945c6be399cb15b15",
+  "version": "0.1.79"
 }

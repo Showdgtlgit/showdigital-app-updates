@@ -1,7 +1,7 @@
 {
-  "archive_size": 38909000,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.158/ShowDigitalAdmin-0.1.158-macOS-arm64.zip",
-  "release_notes": "Derrick's pay email by whole Sun\u2013Sat weeks: one block per finished week; what he sends since Sunday waits for next Monday's payment. Subject carries the week's dates to match the Team page's Copy.",
-  "sha256": "3a6b5309040711169b2c33550e2ae2adc6ba25122925bff4977f3f9b0a0209f8",
-  "version": "0.1.158"
+  "archive_size": 38909897,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.159/ShowDigitalAdmin-0.1.159-macOS-arm64.zip",
+  "release_notes": "Step 4 is Compress & Deliver everywhere (step, button, hero, notifications), matching the Associate app.",
+  "sha256": "dee3a7d01386ebb49a658e4afad1c1abbbf87d0d4f5d865585e452739f6c764f",
+  "version": "0.1.159"
 }

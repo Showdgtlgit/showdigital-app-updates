@@ -1,7 +1,7 @@
 {
-  "archive_size": 152998361,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.83/ShowDigitalAssociate-0.1.83-macOS-arm64.zip",
-  "release_notes": "Compress & Deliver: Finish day stays on screen at a laptop's window size; a listing's video package says Video under its dot.",
-  "sha256": "593e29f76c0e88ddcb310b570bca925b1ae6dc4226be41c02f34bf3a34f354f3",
-  "version": "0.1.83"
+  "archive_size": 153010654,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.84/ShowDigitalAssociate-0.1.84-macOS-arm64.zip",
+  "release_notes": "Contract shoots: a calendar shoot that's yours uploads its photos and clips as shot, in one zip, to Alex's Contract Shoots folder.",
+  "sha256": "fb45971006a54409d9804a76d1055d56ef633c736252a3bb39c09eb5b0eb4546",
+  "version": "0.1.84"
 }

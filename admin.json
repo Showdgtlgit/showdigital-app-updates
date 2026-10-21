@@ -1,7 +1,7 @@
 {
-  "archive_size": 38909897,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.159/ShowDigitalAdmin-0.1.159-macOS-arm64.zip",
-  "release_notes": "Step 4 is Compress & Deliver everywhere (step, button, hero, notifications), matching the Associate app.",
-  "sha256": "dee3a7d01386ebb49a658e4afad1c1abbbf87d0d4f5d865585e452739f6c764f",
-  "version": "0.1.159"
+  "archive_size": 38911994,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.160/ShowDigitalAdmin-0.1.160-macOS-arm64.zip",
+  "release_notes": "Calendar shoots: the card hides the internal number, shows the shoot's time window, and its Edit fold picks a revenue category.",
+  "sha256": "2df441f0fe8e31aea5ef681e681cc0d8ebea18ed6009dfe4156c29ea90b9a4ef",
+  "version": "0.1.160"
 }

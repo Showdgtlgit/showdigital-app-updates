@@ -1,7 +1,7 @@
 {
-  "archive_size": 38911994,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.160/ShowDigitalAdmin-0.1.160-macOS-arm64.zip",
-  "release_notes": "Calendar shoots: the card hides the internal number, shows the shoot's time window, and its Edit fold picks a revenue category.",
-  "sha256": "2df441f0fe8e31aea5ef681e681cc0d8ebea18ed6009dfe4156c29ea90b9a4ef",
-  "version": "0.1.160"
+  "archive_size": 38910698,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.161/ShowDigitalAdmin-0.1.161-macOS-arm64.zip",
+  "release_notes": "Import checklist: the Camera, Drone and Additional rows no longer overlap on the Mac.",
+  "sha256": "24b7f4c45ff02de202c1ebaab682a58b8c3aa3a1fbc8c27846e41c54834234b2",
+  "version": "0.1.161"
 }

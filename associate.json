@@ -1,7 +1,7 @@
 {
-  "archive_size": 153020510,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.88/ShowDigitalAssociate-0.1.88-macOS-arm64.zip",
-  "release_notes": "Compress & Deliver texts Alex the compressed and upload 25/50/75/90/100% milestones, like the Admin app.",
-  "sha256": "600ca7b76db35f7051edc4bcf00540f99b0f3787bd8a7fa48bf4a2280b1da541",
-  "version": "0.1.88"
+  "archive_size": 153029142,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.89/ShowDigitalAssociate-0.1.89-macOS-arm64.zip",
+  "release_notes": "Contract shoots added after setup ship as contract shoots; one unmatched ZIP no longer stops the rest of the delivery.",
+  "sha256": "3820cd65a542a17bfe18a1e284e5b23afbb2bb54a188d0d030288f358afb6e4f",
+  "version": "0.1.89"
 }

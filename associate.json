@@ -1,7 +1,7 @@
 {
-  "archive_size": 153010654,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.84/ShowDigitalAssociate-0.1.84-macOS-arm64.zip",
-  "release_notes": "Contract shoots: a calendar shoot that's yours uploads its photos and clips as shot, in one zip, to Alex's Contract Shoots folder.",
-  "sha256": "fb45971006a54409d9804a76d1055d56ef633c736252a3bb39c09eb5b0eb4546",
-  "version": "0.1.84"
+  "archive_size": 153011870,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.85/ShowDigitalAssociate-0.1.85-macOS-arm64.zip",
+  "release_notes": "Deliver skips a shared order's photos when Alex already delivered that exact visit.",
+  "sha256": "5f36dad0f22c800e49abac31956a9396747c9cb234cc0b391ff81ddef1742446",
+  "version": "0.1.85"
 }

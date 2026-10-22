@@ -1,7 +1,7 @@
 {
-  "archive_size": 153011870,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.85/ShowDigitalAssociate-0.1.85-macOS-arm64.zip",
-  "release_notes": "Deliver skips a shared order's photos when Alex already delivered that exact visit.",
-  "sha256": "5f36dad0f22c800e49abac31956a9396747c9cb234cc0b391ff81ddef1742446",
-  "version": "0.1.85"
+  "archive_size": 153013534,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.86/ShowDigitalAssociate-0.1.86-macOS-arm64.zip",
+  "release_notes": "Phone tracks: keeps the last 3 days the mini publishes, and sorting yesterday's cards fetches yesterday's track.",
+  "sha256": "4087c24d5cc57c9f8ebeeda5aaab3ed54b0c881e1971a2dfa13aae34f5cc1475",
+  "version": "0.1.86"
 }

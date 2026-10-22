@@ -1,7 +1,7 @@
 {
-  "archive_size": 153062330,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.95/ShowDigitalAssociate-0.1.95-macOS-arm64.zip",
-  "release_notes": "Uploads go photos, twilight, contract shoots, then video, smallest first; compression follows the same order; the upload reads Uploading\u2026",
-  "sha256": "6d76674075ac298a0af1b5fdf38e13c94b5757434394474f40ac20e6487af716",
-  "version": "0.1.95"
+  "archive_size": 153065610,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.96/ShowDigitalAssociate-0.1.96-macOS-arm64.zip",
+  "release_notes": "Two units of one building (150 S Ross St 13 / 10) are now one street: the sorter asks instead of certifying the split, and the wrap offers the line labelled 150 #13 / 150 #10; any same-street pair the sorter could not prove says Check the line.",
+  "sha256": "eb7b4efc0804bdc023cc66e023dcd92536bfa96a5efbd819dcebd04d8b9e438b",
+  "version": "0.1.96"
 }

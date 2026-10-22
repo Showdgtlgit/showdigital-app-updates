@@ -1,7 +1,7 @@
 {
-  "archive_size": 38910698,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.161/ShowDigitalAdmin-0.1.161-macOS-arm64.zip",
-  "release_notes": "Import checklist: the Camera, Drone and Additional rows no longer overlap on the Mac.",
-  "sha256": "24b7f4c45ff02de202c1ebaab682a58b8c3aa3a1fbc8c27846e41c54834234b2",
-  "version": "0.1.161"
+  "archive_size": 38911879,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.162/ShowDigitalAdmin-0.1.162-macOS-arm64.zip",
+  "release_notes": "Compress & Deliver: the overall bar glides smoothly between progress updates instead of hopping and stalling.",
+  "sha256": "a5b7df4b4784eb1d28bd6152430a62c0199cfa533f209e81031fc209ac240e0f",
+  "version": "0.1.162"
 }

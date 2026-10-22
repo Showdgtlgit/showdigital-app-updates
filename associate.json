@@ -1,7 +1,7 @@
 {
-  "archive_size": 153029142,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.89/ShowDigitalAssociate-0.1.89-macOS-arm64.zip",
-  "release_notes": "Contract shoots added after setup ship as contract shoots; one unmatched ZIP no longer stops the rest of the delivery.",
-  "sha256": "3820cd65a542a17bfe18a1e284e5b23afbb2bb54a188d0d030288f358afb6e4f",
-  "version": "0.1.89"
+  "archive_size": 153047522,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.91/ShowDigitalAssociate-0.1.91-macOS-arm64.zip",
+  "release_notes": "Twilight photos upload to Twilight Shoots; Start won't erase work that was never sent; a held ZIP says why; Compress shows every package from the start.",
+  "sha256": "63b5782266b542b6d84b35c16c0f5e680cc26e11397e2800ecf2f3e71104d650",
+  "version": "0.1.91"
 }

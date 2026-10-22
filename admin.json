@@ -1,7 +1,7 @@
 {
-  "archive_size": 38920229,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.164/ShowDigitalAdmin-0.1.164-macOS-arm64.zip",
-  "release_notes": "Two units of one building (150 S Ross St 13 / 10) now get the same-street line in review, labelled 150 #13 / 150 #10; a same-street pair the sorter could not prove asks Check the line.",
-  "sha256": "341ed7e9d47a7abb1eb9d954f4cd2f7d4c85915429f520313b9a56c3915959f0",
-  "version": "0.1.164"
+  "archive_size": 38924948,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.165/ShowDigitalAdmin-0.1.165-macOS-arm64.zip",
+  "release_notes": "Street line: S swaps two houses shot out of booked order; same-street pairs a person already moved no longer offer a stale line; 30th St E reads as a direction, not a unit.",
+  "sha256": "dd63c6bccc22d1364f4af2243409c61f3f48acaccbb0aa0a656b9ef378daa4bb",
+  "version": "0.1.165"
 }

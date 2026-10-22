@@ -1,7 +1,7 @@
 {
-  "archive_size": 153013534,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.86/ShowDigitalAssociate-0.1.86-macOS-arm64.zip",
-  "release_notes": "Phone tracks: keeps the last 3 days the mini publishes, and sorting yesterday's cards fetches yesterday's track.",
-  "sha256": "4087c24d5cc57c9f8ebeeda5aaab3ed54b0c881e1971a2dfa13aae34f5cc1475",
-  "version": "0.1.86"
+  "archive_size": 153013614,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.87/ShowDigitalAssociate-0.1.87-macOS-arm64.zip",
+  "release_notes": "Import checklist: the Camera, Drone and Additional rows no longer overlap on the Mac, and the note sits right under them while a card imports.",
+  "sha256": "e9f6ed677c6d72968bb7e809eec6720046aeaf032046259dd515c251bd0b9711",
+  "version": "0.1.87"
 }

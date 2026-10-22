@@ -1,7 +1,7 @@
 {
-  "archive_size": 153059910,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.93/ShowDigitalAssociate-0.1.93-macOS-arm64.zip",
-  "release_notes": "Stop answers at once during an upload, and the next Deliver resumes where it stopped.",
-  "sha256": "18fb39aa529036cfcc8cbed153f7a597de5317dee02624fef4bbc9c739346f2e",
-  "version": "0.1.93"
+  "archive_size": 153060475,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.94/ShowDigitalAssociate-0.1.94-macOS-arm64.zip",
+  "release_notes": "Compress no longer finds a contract shoot's set-aside photos as a second order, so the order shows once and no extra photo ZIP is built each run.",
+  "sha256": "cb20b2378bc9b5e057988c0d226e469fe5a9f35d72a7f8b4985faba9f63acabe",
+  "version": "0.1.94"
 }

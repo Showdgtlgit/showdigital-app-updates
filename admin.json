@@ -1,7 +1,7 @@
 {
-  "archive_size": 38923669,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.166/ShowDigitalAdmin-0.1.166-macOS-arm64.zip",
-  "release_notes": "Team page no longer crashes when opened.",
-  "sha256": "729e2f89d7a9a969243392d3707affd0d9cb025be6ec1ab46920ece35bdf0ffa",
-  "version": "0.1.166"
+  "archive_size": 38925213,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.167/ShowDigitalAdmin-0.1.167-macOS-arm64.zip",
+  "release_notes": "Team: a card's links wrap to a second line instead of clipping in a narrow window.",
+  "sha256": "cb322ea915f4b0b2414e807a924945277485058a215b90d3ac0b0b5c20afaac2",
+  "version": "0.1.167"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 38924948,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.165/ShowDigitalAdmin-0.1.165-macOS-arm64.zip",
-  "release_notes": "Street line: S swaps two houses shot out of booked order; same-street pairs a person already moved no longer offer a stale line; 30th St E reads as a direction, not a unit.",
-  "sha256": "dd63c6bccc22d1364f4af2243409c61f3f48acaccbb0aa0a656b9ef378daa4bb",
-  "version": "0.1.165"
+  "archive_size": 38923669,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.166/ShowDigitalAdmin-0.1.166-macOS-arm64.zip",
+  "release_notes": "Team page no longer crashes when opened.",
+  "sha256": "729e2f89d7a9a969243392d3707affd0d9cb025be6ec1ab46920ece35bdf0ffa",
+  "version": "0.1.166"
 }

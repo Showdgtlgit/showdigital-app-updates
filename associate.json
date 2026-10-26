@@ -1,7 +1,7 @@
 {
-  "archive_size": 153084837,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.97/ShowDigitalAssociate-0.1.97-macOS-arm64.zip",
-  "release_notes": "Sort: a booked same-street unit the clock left empty now gets its own set, so the line between units is always offered; a moved pair offers no stale line; 30th St E reads as a direction.",
-  "sha256": "bb85d56d0e59996c052440bbe808ee03084abedefeeb475f0acf6f505cf73ee4",
-  "version": "0.1.97"
+  "archive_size": 153089445,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.98/ShowDigitalAssociate-0.1.98-macOS-arm64.zip",
+  "release_notes": "Times her computer work for her hours: records when each step starts and when every package is uploaded (workday record for the mini).",
+  "sha256": "79722a6c7c33506e856fef4e1e408d3f07b9f96a94423c28f921b7905190c7e1",
+  "version": "0.1.98"
 }

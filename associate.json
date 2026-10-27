@@ -1,7 +1,7 @@
 {
-  "archive_size": 153089509,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.99/ShowDigitalAssociate-0.1.99-macOS-arm64.zip",
-  "release_notes": "The Compress & Deliver countdown sentence is no longer cut off.",
-  "sha256": "103da8326d77d0d1f1ae5061355e630478cf8725d7ed37a25486a53253ffe153",
-  "version": "0.1.99"
+  "archive_size": 153093135,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.100/ShowDigitalAssociate-0.1.100-macOS-arm64.zip",
+  "release_notes": "Completed previous days are archived before a fresh start; unfinished work stays resumable. Pages reopen at the top, repeated import text is removed, Dropbox reconnect guidance is corrected, and clip metadata loads faster.",
+  "sha256": "4526b10ead9fb64fb7c88003f72c3fcdd1f31367ef68131752f5b75b65a752c1",
+  "version": "0.1.100"
 }

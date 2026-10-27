@@ -1,7 +1,7 @@
 {
-  "archive_size": 38925267,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.168/ShowDigitalAdmin-0.1.168-macOS-arm64.zip",
-  "release_notes": "Delivery: each of today's shoots shows what it owes, who is on it, who can upload and what has landed.",
-  "sha256": "445cfb1bba1076c4a6e06887b2c77a160914972c539c78cc33bbe51819fe0c9b",
-  "version": "0.1.168"
+  "archive_size": 38924742,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.169/ShowDigitalAdmin-0.1.169-macOS-arm64.zip",
+  "release_notes": "Compress & Deliver on the review wrap; the update prompt points to Help \u2192 Check for Updates\u2026; the wrap countdown stays on one line.",
+  "sha256": "0fa933f985b6d3393b0a20eccb51e3c19dedd46d991106721bcd092457108094",
+  "version": "0.1.169"
 }

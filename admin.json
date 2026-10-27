@@ -1,7 +1,7 @@
 {
-  "archive_size": 39214493,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.170/ShowDigitalAdmin-0.1.170-macOS-arm64.zip",
-  "release_notes": "Completed previous days start fresh, unfinished sessions remain resumable across midnight and missed days, and clip metadata loads faster with bounded parallel reads.",
-  "sha256": "f21b111fed5ae7dc8543a5f59945f1f098d8002bafec71152994c4520884fca8",
-  "version": "0.1.170"
+  "archive_size": 39213097,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.171/ShowDigitalAdmin-0.1.171-macOS-arm64.zip",
+  "release_notes": "A card imported after the sort keeps the day open, so the next morning asks before resetting over it.",
+  "sha256": "370e388172e92b172707b75dcb1010c6fe6314edd3838d032a305e98048a26bf",
+  "version": "0.1.171"
 }

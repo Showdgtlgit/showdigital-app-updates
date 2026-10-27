@@ -1,7 +1,7 @@
 {
-  "archive_size": 153093135,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.100/ShowDigitalAssociate-0.1.100-macOS-arm64.zip",
-  "release_notes": "Completed previous days are archived before a fresh start; unfinished work stays resumable. Pages reopen at the top, repeated import text is removed, Dropbox reconnect guidance is corrected, and clip metadata loads faster.",
-  "sha256": "4526b10ead9fb64fb7c88003f72c3fcdd1f31367ef68131752f5b75b65a752c1",
-  "version": "0.1.100"
+  "archive_size": 153093287,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.101/ShowDigitalAssociate-0.1.101-macOS-arm64.zip",
+  "release_notes": "A failed morning setup on an earlier day no longer blocks the next morning's auto-start or asks before the reset.",
+  "sha256": "3c0c01faff7c9ddfae83c3ad233fcf571051e6570e8f20df568d2f2d79ab3a54",
+  "version": "0.1.101"
 }

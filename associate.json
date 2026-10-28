@@ -1,7 +1,7 @@
 {
-  "archive_size": 153093287,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.101/ShowDigitalAssociate-0.1.101-macOS-arm64.zip",
-  "release_notes": "A failed morning setup on an earlier day no longer blocks the next morning's auto-start or asks before the reset.",
-  "sha256": "3c0c01faff7c9ddfae83c3ad233fcf571051e6570e8f20df568d2f2d79ab3a54",
-  "version": "0.1.101"
+  "archive_size": 153095329,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.102/ShowDigitalAssociate-0.1.102-macOS-arm64.zip",
+  "release_notes": "Start no longer says yesterday's delivered orders were never sent: the reset guard reads the archived day's delivery receipts.",
+  "sha256": "055955c624118a8e109268c2a79370ac29de35fb1f7ed9c33bae0c3901158d61",
+  "version": "0.1.102"
 }

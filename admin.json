@@ -1,7 +1,7 @@
 {
-  "archive_size": 39221858,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.175/ShowDigitalAdmin-0.1.175-macOS-arm64.zip",
-  "release_notes": "Open project opens the project Resolve already has, with its clips relinked, instead of importing a second Offline-beside-Online copy.",
-  "sha256": "2f2665138cdb3ad3465304af998bab9b10df14190be56bebd052dea2a6b2c7ae",
-  "version": "0.1.175"
+  "archive_size": 39221244,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.176/ShowDigitalAdmin-0.1.176-macOS-arm64.zip",
+  "release_notes": "Drone photos on a shared street are filed by the order they were flown and walked; no front-door comparison for drone sets.",
+  "sha256": "0010abf38e3954f86be3ea549984936e1dd60f096ca96133810f7554c08fee70",
+  "version": "0.1.176"
 }

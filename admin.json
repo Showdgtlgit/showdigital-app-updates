@@ -1,7 +1,7 @@
 {
-  "archive_size": 39220318,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.172/ShowDigitalAdmin-0.1.172-macOS-arm64.zip",
-  "release_notes": "Delivery: Download clips \u2014 an associate-shot reel's raw clips come down from Dropbox into the listing's Video folder, and Open project gets them first so the project opens with them. Counting links no longer cut off their text.",
-  "sha256": "441a58608300a7cfeaf4d2c5cd58a9d256edd84a568097632b2540e5a8a437a1",
-  "version": "0.1.172"
+  "archive_size": 39219657,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.173/ShowDigitalAdmin-0.1.173-macOS-arm64.zip",
+  "release_notes": "Open in Aryeo and other links open in the alex@showdgtl.com Chrome window again.",
+  "sha256": "54d56553059b848b6768e0873f40b78d34537455f3dc39fa485693e7767215d8",
+  "version": "0.1.173"
 }

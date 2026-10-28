@@ -1,7 +1,7 @@
 {
-  "archive_size": 39213097,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.171/ShowDigitalAdmin-0.1.171-macOS-arm64.zip",
-  "release_notes": "A card imported after the sort keeps the day open, so the next morning asks before resetting over it.",
-  "sha256": "370e388172e92b172707b75dcb1010c6fe6314edd3838d032a305e98048a26bf",
-  "version": "0.1.171"
+  "archive_size": 39220318,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.172/ShowDigitalAdmin-0.1.172-macOS-arm64.zip",
+  "release_notes": "Delivery: Download clips \u2014 an associate-shot reel's raw clips come down from Dropbox into the listing's Video folder, and Open project gets them first so the project opens with them. Counting links no longer cut off their text.",
+  "sha256": "441a58608300a7cfeaf4d2c5cd58a9d256edd84a568097632b2540e5a8a437a1",
+  "version": "0.1.172"
 }

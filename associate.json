@@ -1,7 +1,7 @@
 {
-  "archive_size": 153096049,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.103/ShowDigitalAssociate-0.1.103-macOS-arm64.zip",
-  "release_notes": "The welcome screen now says \"Continue today's session\" instead of \"Interrupted session found\" (or names the day, if the session is from an earlier one).",
-  "sha256": "6c03416de6eb58a12a9883c5f8642400a31f89eedc9016695cb23a77b40c9907",
-  "version": "0.1.103"
+  "archive_size": 153098932,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.104/ShowDigitalAssociate-0.1.104-macOS-arm64.zip",
+  "release_notes": "Drone photos on a shared street are filed by the order they were flown and walked; no front-door comparison for drone sets.",
+  "sha256": "81cf2d30488730ebec0827de1804bb20ae52799083e6d5666c710c585d821c2a",
+  "version": "0.1.104"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39219855,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.174/ShowDigitalAdmin-0.1.174-macOS-arm64.zip",
-  "release_notes": "Delivery cards: line words start with a capital; scheduled orders show a thick green ring.",
-  "sha256": "cbf94c2bef63c3e0c4190793b700b8e944d770d5f972a5f9a6e0575c8e9991bc",
-  "version": "0.1.174"
+  "archive_size": 39221858,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.175/ShowDigitalAdmin-0.1.175-macOS-arm64.zip",
+  "release_notes": "Open project opens the project Resolve already has, with its clips relinked, instead of importing a second Offline-beside-Online copy.",
+  "sha256": "2f2665138cdb3ad3465304af998bab9b10df14190be56bebd052dea2a6b2c7ae",
+  "version": "0.1.175"
 }

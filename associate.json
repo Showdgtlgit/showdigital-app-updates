@@ -1,7 +1,7 @@
 {
-  "archive_size": 153095329,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.102/ShowDigitalAssociate-0.1.102-macOS-arm64.zip",
-  "release_notes": "Start no longer says yesterday's delivered orders were never sent: the reset guard reads the archived day's delivery receipts.",
-  "sha256": "055955c624118a8e109268c2a79370ac29de35fb1f7ed9c33bae0c3901158d61",
-  "version": "0.1.102"
+  "archive_size": 153096049,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.103/ShowDigitalAssociate-0.1.103-macOS-arm64.zip",
+  "release_notes": "The welcome screen now says \"Continue today's session\" instead of \"Interrupted session found\" (or names the day, if the session is from an earlier one).",
+  "sha256": "6c03416de6eb58a12a9883c5f8642400a31f89eedc9016695cb23a77b40c9907",
+  "version": "0.1.103"
 }

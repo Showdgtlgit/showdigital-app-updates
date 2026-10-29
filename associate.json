@@ -1,7 +1,7 @@
 {
-  "archive_size": 153098932,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.104/ShowDigitalAssociate-0.1.104-macOS-arm64.zip",
-  "release_notes": "Drone photos on a shared street are filed by the order they were flown and walked; no front-door comparison for drone sets.",
-  "sha256": "81cf2d30488730ebec0827de1804bb20ae52799083e6d5666c710c585d821c2a",
-  "version": "0.1.104"
+  "archive_size": 153100324,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.105/ShowDigitalAssociate-0.1.105-macOS-arm64.zip",
+  "release_notes": "Delivery now also sends the sort detail files and the last 7 days of app logs home, so a day can be checked and replayed the same day.",
+  "sha256": "f24bf1e4e41147a9adf6d64fca3632d4e6a3f8dd0d715683f52cd6571fc68f02",
+  "version": "0.1.105"
 }

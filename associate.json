@@ -1,7 +1,7 @@
 {
-  "archive_size": 153100324,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.105/ShowDigitalAssociate-0.1.105-macOS-arm64.zip",
-  "release_notes": "Delivery now also sends the sort detail files and the last 7 days of app logs home, so a day can be checked and replayed the same day.",
-  "sha256": "f24bf1e4e41147a9adf6d64fca3632d4e6a3f8dd0d715683f52cd6571fc68f02",
-  "version": "0.1.105"
+  "archive_size": 153101444,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.106/ShowDigitalAssociate-0.1.106-macOS-arm64.zip",
+  "release_notes": "Sort now also sends its details and the app logs home when it ends, even if it fails, so a bad day can be checked before Deliver.",
+  "sha256": "e791795c920dd1ff0dfe51a266863dc84d2ce4cbb0fe5b7ac1cadb15fa935c16",
+  "version": "0.1.106"
 }

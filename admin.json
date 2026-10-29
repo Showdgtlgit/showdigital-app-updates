@@ -1,7 +1,7 @@
 {
-  "archive_size": 39221244,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.176/ShowDigitalAdmin-0.1.176-macOS-arm64.zip",
-  "release_notes": "Drone photos on a shared street are filed by the order they were flown and walked; no front-door comparison for drone sets.",
-  "sha256": "0010abf38e3954f86be3ea549984936e1dd60f096ca96133810f7554c08fee70",
-  "version": "0.1.176"
+  "archive_size": 39227040,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.177/ShowDigitalAdmin-0.1.177-macOS-arm64.zip",
+  "release_notes": "Folders are made for any past shoot that has none when the app opens. Delivery cards get Get originals. Month close folds repeat visits into one folder and sets empty folders aside.",
+  "sha256": "9045fb0ca9fa4ba5f424e9f810f57c7ee6a3e9460d607b2a1038a6cf6b5cedcd",
+  "version": "0.1.177"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 153101444,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.106/ShowDigitalAssociate-0.1.106-macOS-arm64.zip",
-  "release_notes": "Sort now also sends its details and the app logs home when it ends, even if it fails, so a bad day can be checked before Deliver.",
-  "sha256": "e791795c920dd1ff0dfe51a266863dc84d2ce4cbb0fe5b7ac1cadb15fa935c16",
-  "version": "0.1.106"
+  "archive_size": 153105166,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.107/ShowDigitalAssociate-0.1.107-macOS-arm64.zip",
+  "release_notes": "Upload watch: Compress & Deliver reports progress to the mini so a stopped upload alerts Alex; clips in an order with no video stay on this Mac.",
+  "sha256": "8f40452284ba613c0b52c76aa9e7753c756e9bee5d1e0fe5fb16122fff91d4c7",
+  "version": "0.1.107"
 }

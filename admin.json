@@ -1,7 +1,7 @@
 {
-  "archive_size": 39233041,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.178/ShowDigitalAdmin-0.1.178-macOS-arm64.zip",
-  "release_notes": "Updating now shows a screen with a progress bar, then reopens by itself.",
-  "sha256": "e81390ef0cd95cd66db1e16e0c01549e1432d5a6e1b203e9b0612d6d539c6d7d",
-  "version": "0.1.178"
+  "archive_size": 39232758,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.179/ShowDigitalAdmin-0.1.179-macOS-arm64.zip",
+  "release_notes": "Closing the window while stopping no longer causes an error.",
+  "sha256": "9f5727e94484c68ff989b33bd91b4d7137a0a7bdd58394276e4d76be77dca602",
+  "version": "0.1.179"
 }

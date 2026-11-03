@@ -1,7 +1,7 @@
 {
-  "archive_size": 153136174,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.112/ShowDigitalAssociate-0.1.112-macOS-arm64.zip",
-  "release_notes": "Sort again moves a clip stranded in a review folder or a job that bought no video to the listing that shot it. Anything a reviewer placed stays.",
-  "sha256": "bc13e3ba75368f3741c0d505aab4f6501d5df367184993889f690532dc7706ea",
-  "version": "0.1.112"
+  "archive_size": 153134382,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.113/ShowDigitalAssociate-0.1.113-macOS-arm64.zip",
+  "release_notes": "A delivered day can take more work: Import, Sort again and Compress & Deliver reopen it, and only new packages are sent. The welcome shows the date only.",
+  "sha256": "09398210c186c360348986ccfa55d3cb95db369fa239527211a70239525d6f78",
+  "version": "0.1.113"
 }

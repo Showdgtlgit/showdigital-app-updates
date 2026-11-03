@@ -1,7 +1,7 @@
 {
-  "archive_size": 153127057,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.110/ShowDigitalAssociate-0.1.110-macOS-arm64.zip",
-  "release_notes": "Closing the window while stopping no longer causes an error.",
-  "sha256": "5a8319969158042490f008c5b258a2e2b41d56a648c787a1a86f64e98ff9e2bd",
-  "version": "0.1.110"
+  "archive_size": 153133304,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.111/ShowDigitalAssociate-0.1.111-macOS-arm64.zip",
+  "release_notes": "Video sorting reads the same evidence as photos: the clip's GPS first, then the phone at that moment against each booking, then the clock. Clips shot far from a booking stay in review instead of filing there.",
+  "sha256": "4fa0be5dcd9cbc3c95f22be384f48344123658f96b667b97bf4d169a697bfe51",
+  "version": "0.1.111"
 }

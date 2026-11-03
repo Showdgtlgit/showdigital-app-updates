@@ -1,7 +1,7 @@
 {
-  "archive_size": 153163214,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.114/ShowDigitalAssociate-0.1.114-macOS-arm64.zip",
-  "release_notes": "Live help view: Alex sees this app's screens and log within seconds to help when you're stuck (only this window, never your other apps).",
-  "sha256": "8848915d797abbecd2b7541c1dcaf7c8be0a37da5794870a4ebf55b1ea26c31f",
-  "version": "0.1.114"
+  "archive_size": 153165326,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.115/ShowDigitalAssociate-0.1.115-macOS-arm64.zip",
+  "release_notes": "Updates now install by themselves when the app opens. Fixes for the live help view and for zip uploads when Dropbox is busy.",
+  "sha256": "2414b5a45987ef001963bfd5ab1ad65c2ccc2fd7c6fd2fdba2fe7e6a06eeb44e",
+  "version": "0.1.115"
 }

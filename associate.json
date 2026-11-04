@@ -1,7 +1,7 @@
 {
-  "archive_size": 153167598,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.116/ShowDigitalAssociate-0.1.116-macOS-arm64.zip",
-  "release_notes": "Telegram when Sort finishes (all placed / groups need review); no alert when Import finds no card",
-  "sha256": "07aa3785661e0083a8af168bb5e2bab4697c839da490f984f96ca27a889fc1f4",
-  "version": "0.1.116"
+  "archive_size": 153169519,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.117/ShowDigitalAssociate-0.1.117-macOS-arm64.zip",
+  "release_notes": "Second delivery the same day: houses already sent stay locked when you sort again; late photos for them show as \"Already sent\". Plus 0.1.116: a text when Sort finishes, and no alert when Import finds no card.",
+  "sha256": "e4d8730c1cd2706a11d65f89dcfa26185117622a25aebfbd890d205e608ee2e7",
+  "version": "0.1.117"
 }

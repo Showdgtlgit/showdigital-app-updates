@@ -1,7 +1,7 @@
 {
-  "archive_size": 39235708,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.181/ShowDigitalAdmin-0.1.181-macOS-arm64.zip",
-  "release_notes": "No internet now reads as plain words on the associate-shoots line, and the red line clears once the connection is back.",
-  "sha256": "133e234786ebffabe637b6d96bc725a0fba7603a230c13c637e102caa5477038",
-  "version": "0.1.181"
+  "archive_size": 39236691,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.182/ShowDigitalAdmin-0.1.182-macOS-arm64.zip",
+  "release_notes": "Updates install at every gate: Start, Next, Import and Sort put a newer build in at once, with no question; after Sort it waits and installs at Day complete, saying so under the step. A late frame for a house already sent reads \"Already sent \u00b7 <street>\".",
+  "sha256": "a89a2ff18bcd1ada9e72b50cc07e1e92bd43ba609dde66b526c408190e37f282",
+  "version": "0.1.182"
 }

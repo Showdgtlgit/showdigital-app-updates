@@ -1,7 +1,7 @@
 {
-  "archive_size": 39234379,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.180/ShowDigitalAdmin-0.1.180-macOS-arm64.zip",
-  "release_notes": "Back up a month early: on its last weekend, the Archive screen offers it by choice.",
-  "sha256": "6160c271ae2823c91d7879432f2574544aa721eaab954a4242ff55400c3b3523",
-  "version": "0.1.180"
+  "archive_size": 39235708,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.181/ShowDigitalAdmin-0.1.181-macOS-arm64.zip",
+  "release_notes": "No internet now reads as plain words on the associate-shoots line, and the red line clears once the connection is back.",
+  "sha256": "133e234786ebffabe637b6d96bc725a0fba7603a230c13c637e102caa5477038",
+  "version": "0.1.181"
 }

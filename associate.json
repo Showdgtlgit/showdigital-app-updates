@@ -1,7 +1,7 @@
 {
-  "archive_size": 153165326,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.115/ShowDigitalAssociate-0.1.115-macOS-arm64.zip",
-  "release_notes": "Updates now install by themselves when the app opens. Fixes for the live help view and for zip uploads when Dropbox is busy.",
-  "sha256": "2414b5a45987ef001963bfd5ab1ad65c2ccc2fd7c6fd2fdba2fe7e6a06eeb44e",
-  "version": "0.1.115"
+  "archive_size": 153167598,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.116/ShowDigitalAssociate-0.1.116-macOS-arm64.zip",
+  "release_notes": "Telegram when Sort finishes (all placed / groups need review); no alert when Import finds no card",
+  "sha256": "07aa3785661e0083a8af168bb5e2bab4697c839da490f984f96ca27a889fc1f4",
+  "version": "0.1.116"
 }

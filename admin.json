@@ -1,7 +1,7 @@
 {
-  "archive_size": 39236622,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.183/ShowDigitalAdmin-0.1.183-macOS-arm64.zip",
-  "release_notes": "Videos and Delivery find an edited video the editor uploaded to the other lane's folder (one-kind orders).",
-  "sha256": "2beefdc3f912a879aaa07f1a1890acac8cd662918f4f2528f9cc7a8dd236ee9b",
-  "version": "0.1.183"
+  "archive_size": 39241253,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.184/ShowDigitalAdmin-0.1.184-macOS-arm64.zip",
+  "release_notes": "Open project waits until every clip is downloaded and whole before Resolve opens it; a failed download offers Retry instead of opening.",
+  "sha256": "801f2690c90b46d53528e18972482af157599fa01c0ed0f19f9197d33c90b7ee",
+  "version": "0.1.184"
 }

@@ -1,7 +1,7 @@
 {
-  "archive_size": 39236691,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.182/ShowDigitalAdmin-0.1.182-macOS-arm64.zip",
-  "release_notes": "Updates install at every gate: Start, Next, Import and Sort put a newer build in at once, with no question; after Sort it waits and installs at Day complete, saying so under the step. A late frame for a house already sent reads \"Already sent \u00b7 <street>\".",
-  "sha256": "a89a2ff18bcd1ada9e72b50cc07e1e92bd43ba609dde66b526c408190e37f282",
-  "version": "0.1.182"
+  "archive_size": 39236622,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.183/ShowDigitalAdmin-0.1.183-macOS-arm64.zip",
+  "release_notes": "Videos and Delivery find an edited video the editor uploaded to the other lane's folder (one-kind orders).",
+  "sha256": "2beefdc3f912a879aaa07f1a1890acac8cd662918f4f2528f9cc7a8dd236ee9b",
+  "version": "0.1.183"
 }

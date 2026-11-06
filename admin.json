@@ -1,7 +1,7 @@
 {
-  "archive_size": 39241253,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.184/ShowDigitalAdmin-0.1.184-macOS-arm64.zip",
-  "release_notes": "Open project waits until every clip is downloaded and whole before Resolve opens it; a failed download offers Retry instead of opening.",
-  "sha256": "801f2690c90b46d53528e18972482af157599fa01c0ed0f19f9197d33c90b7ee",
-  "version": "0.1.184"
+  "archive_size": 39239986,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/admin-v0.1.185/ShowDigitalAdmin-0.1.185-macOS-arm64.zip",
+  "release_notes": "Upload screen no longer shows an earlier run's houses as extra dots.",
+  "sha256": "78bda13dd4438d9b2bd7adb56388b5972c131be88f42df6042044c9f616e13e3",
+  "version": "0.1.185"
 }

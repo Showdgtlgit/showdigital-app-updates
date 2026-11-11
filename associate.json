@@ -1,7 +1,7 @@
 {
-  "archive_size": 153175087,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.120/ShowDigitalAssociate-0.1.120-macOS-arm64.zip",
-  "release_notes": "Upload screen no longer shows yesterday's houses as extra dots. Start opens Tailscale and reconnects it if it is switched off.",
-  "sha256": "1b84de9f874724a63bea1dfe6532d3eb0fbe1df28abbcae4c1a699e68c944a2c",
-  "version": "0.1.120"
+  "archive_size": 153194208,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.121/ShowDigitalAssociate-0.1.121-macOS-arm64.zip",
+  "release_notes": "Sort: a day shot fly-then-walk at each house is filed in booking order, even when the map pins are off.",
+  "sha256": "da96cb3dff117cd6fa32b9e68f71e82f64a94dd2bf28707a9c955645c1acdac0",
+  "version": "0.1.121"
 }

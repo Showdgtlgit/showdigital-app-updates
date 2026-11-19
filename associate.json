@@ -1,7 +1,7 @@
 {
-  "archive_size": 153201600,
-  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.123/ShowDigitalAssociate-0.1.123-macOS-arm64.zip",
-  "release_notes": "The app keeps itself current: a failed update is tried again by itself, and the app closes itself after a finished day so the next update can install.",
-  "sha256": "cac89467cc7ecf0afd31299ce28c875b7fa6ac94cf36141f49720f5bc7be6db3",
-  "version": "0.1.123"
+  "archive_size": 153201792,
+  "download_url": "https://github.com/Showdgtlgit/showdigital-app-updates/releases/download/associate-v0.1.124/ShowDigitalAssociate-0.1.124-macOS-arm64.zip",
+  "release_notes": "An added visit (like Additional photos) is dated by the day it was shot, so its photos go to the editor instead of being held.",
+  "sha256": "47e26b646d6060a05847db8cb35d765b35e0da4300ab85c7937c4868eb3d97a7",
+  "version": "0.1.124"
 }
